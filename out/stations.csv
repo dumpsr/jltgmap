@@ -1,0 +1,512 @@
+stop_id,stop_name,stop_lat,stop_lon
+cluster_0,"Hunting Park / Roosevelt Blvd & Broad St - FS (1, 53, 82, B1) (2 stations)",40.01733133333334,-75.14931533333333
+cluster_1,"Roosevelt Blvd & 3rd St / Roosevelt Blvd & 5th St / Roosevelt Blvd & 5th St - FS / Roosevelt Blvd & 6th St / Wyoming Av & 3rd St / Wyoming Av & 5th St / Wyoming Av & 7th St - FS / Wyoming Av & Fairhill St / Wyoming Av & Roosevelt Blvd (1, 426, 433, 445, 447, 75, 82) (9 stations)",40.02316472727273,-75.13371827272728
+cluster_2,"Roosevelt Blvd & Cottman Av / Roosevelt Blvd & Cottman Av - FS / Roosevelt Blvd & Friendship St (1, 14, 20, 50, BLVDDIR) (3 stations)",40.043995333333335,-75.05507866666666
+cluster_3,"Roosevelt Blvd & Rhawn St / Roosevelt Blvd & Solly Av - FS (1, 14, 20, 50, BLVDDIR) (2 stations)",40.05793,-75.046012
+cluster_4,"Roosevelt Blvd & Adams Av / Roosevelt Blvd & Langdon St / Roosevelt Blvd & Summerdale Av - FS / Roosevelt Blvd & Tower Blvd - FS (1, 41, 426, 445, 447, 8, 82, K) (4 stations)",40.027972399999996,-75.09949639999999
+cluster_5,"Wissahickon / Wissahickon Transit Center (1, 124, 125, 35, 38, 61, 82, NOR) (2 stations)",40.015781849999996,-75.20875889999999
+cluster_6,"20th St & Johnston St / Oregon Av & 22nd St (17, 2, 63, 7) (2 stations)",39.9175305,-75.1829495
+cluster_7,"Hunting Park Av & 19th St / Hunting Park Av & Pulaski Av (2, 445, 447, 82) (2 stations)",40.0137395,-75.1584005
+cluster_8,33rd St & Cecil B Moore Av Loop (3),39.982394,-75.188946
+cluster_9,"2nd St / 5th St/Independence Hall / Arch St & 3rd St / Chestnut St & 3rd St / Front St & Market St Loop (17, 21, 42, 44, 48, 5, L1) (5 stations)",39.950192,-75.14556128571428
+cluster_10,Ogontz Av & 68th Av / Ogontz Av & 69th Av (6) (2 stations),40.058730499999996,-75.149786
+cluster_11,Ogontz Av & 66th Av / Ogontz Av & Stenton Av (6) (2 stations),40.0532685,-75.1500025
+cluster_12,"Broad St & Bigler St - FS / Broad St & Oregon Av / Oregon / Oregon Av & 16th St / Oregon Av & Broad St - FS (4, 45, 63, 7, B1) (5 stations)",39.916366000000004,-75.17190566666666
+cluster_13,"Pier 70 WalMart & Home Depot / Tasker St & Columbus Blvd (25, 29, 64, 7) (2 stations)",39.9263575,-75.1430895
+cluster_14,"Roosevelt Blvd & C St / Roosevelt Blvd & C St - FS (1, 41, 426, 445, 447, 8, 82) (2 stations)",40.026589,-75.116983
+cluster_15,"13th St / 15th St/City Hall / 15th/City Hall / Market St & 15th St / Walnut St & Broad St - MBNS / Walnut-Locust (12, 124, 125, 17, 21, 31, 32, 33, 38, 42, 44, 48, 62, 9, B1, B1 OWL, B2, L1, L1 OWL, T1, T2, T3, T4, T5) (6 stations)",39.951644692307696,-75.16406884615384
+cluster_16,"20th St & Walnut St / 22nd St / Chestnut St & 21st St / Walnut St & 20th St / Walnut St & 22nd St / Walnut St & 23rd St (12, 17, 21, 42, 9, T1, T2, T3, T4, T5) (6 stations)",39.95191185714286,-75.175954
+cluster_17,"Cheltenham Av & Ogontz Av Loop / Ogontz Av & 79th Av (16, 6, 71, 81) (2 stations)",40.073659000000006,-75.1585345
+cluster_18,"56th St & Christian St / Angora / Baltimore Av & 55th St / Baltimore Av & 56th St / Baltimore Av & 57th St / Baltimore Av & 58th St (46, 63, MED, T2) (6 stations)",39.94662802,-75.23678921
+cluster_19,"58th St & Kingsessing Av / 58th St & Woodland Av / 60th St & Kingsessing Av / Chester Av & 57th St / Chester Av & 58th St / Chester Av & 59th St / Chester Av & 60th St / Kingsessing Av & 60th St / Woodland Av & 57th St / Woodland Av & 58th St / Woodland Av & 60th St (409, 411, 63, T3, T4) (11 stations)",39.9339299375,-75.227417875
+cluster_20,"62nd St & Buist Av / 63rd St & Lindbergh Blvd / Elmwood Av & 61st St / Elmwood Av & 62nd St / Elmwood Av & 63rd St / Elmwood Av & 64th St / Elmwood Av & 65th St (63, T5) (7 stations)",39.92359981818182,-75.22742381818182
+cluster_21,"Chelten Av & Baynton St / Germantown (26, 41, CHE, K) (2 stations)",40.038111,-75.17165785
+cluster_22,"Arrott St & Leiper St / Arrott Transit Center / Orthodox St & Leiper St / Orthodox St & Penn St / Orthodox St & Pilling St / Oxford Av & Frankford Av / Oxford Av & Harrison St / Oxford Av & Penn St / Penn St & Arrott St / Penn St & Foulkrod St / Penn St & Overington St (41, 495, 59, 75, 89, K, L1) (11 stations)",40.01758485714286,-75.0854362857143
+cluster_23,Wister St & Chelten Av / Wister St & Godfrey Av (51) (2 stations),40.0503935,-75.1578125
+cluster_24,"Stenton Av & Mt Airy Av (51, 71)",40.0689055,-75.1817415
+cluster_25,"Plymouth Meeting Mall (150, 27, 51, 90, 95, 98)",40.117196,-75.284034
+cluster_26,"Chestnut Hill West / Germantown Av & Bethlehem Pk - FS / Gravers / Gravers Ln & Anderson St / Gravers Ln & Germantown Av - FS (23, 51, 77, CHE, CHW) (5 stations)",40.07664138,-75.2050722
+cluster_27,"Stenton Av & Washington Ln / Stenton Av & Washington Ln - FS (18, 51) (2 stations)",40.059635,-75.1656305
+cluster_28,"Hunting Park Av & 24th St / Hunting Park Av & Fox St - FS (1, 445, 447, 56, 82) (2 stations)",40.0085875,-75.170002
+cluster_29,"Allegheny Av & 27th St / Allegheny Av & Hunting Park Av (1, 48, 60, 82) (2 stations)",40.004605999999995,-75.1761735
+cluster_30,"Bustleton Av & Comly St / Bustleton Av & Comly St - FS / Bustleton Av & Deveraux Av / Bustleton Av & Devereux Av (14, 20, 58, 88) (4 stations)",40.0313365,-75.0729935
+cluster_31,"Richmond St & Allegheny Av / Richmond St & Clearfield St / Richmond St & Westmoreland St Loop (60, G1) (3 stations)",39.9827138,-75.102067
+cluster_32,"Olney Av & 16th St / Olney Av & Broad St / Olney Av & Broad St - FS / Olney Transit Center / Olney Transit Center - Rt 6 / Olney Transit Center - Rt L / Park Av & Grange St (18, 22, 26, 51, 55, 6, B1, B2, B3) (7 stations)",40.0391862,-75.14517090000001
+cluster_33,"Franklin Mills & Liberty Bell Blvd / Philadelphia Mills & Marshalls (129, 130, 20, 50, 67, 84) (2 stations)",40.0870625,-74.9651305
+cluster_34,"33rd St / Chestnut St & 32nd St / Drexel Station at 30th St / Walnut St & 30th St - FS (21, 42, L1, T1, T2, T3, T4, T5) (4 stations)",39.954340125,-75.185510875
+cluster_35,"Chelten Av & Chew Av / Chew Av & Church Ln (18, 26, K) (2 stations)",40.04398966666667,-75.16248933333334
+cluster_36,"15th St & Market St / 19th St / 19th St & JFK Blvd / Chestnut St & 17th St / JFK Blvd & 17th St / JFK Blvd & 19th St / Suburban Station (124, 125, 16, 17, 21, 27, 31, 32, 33, 38, 4, 42, 44, 446, 62, 78, 9, AIR, CHE, CHW, CYN, FOX, LAN, MED, NOR, PAO, T1, T2, T3, T4, T5, TRE, WAR, WIL, WTR) (7 stations)",39.9534878625,-75.16947585
+cluster_37,"Torresdale Av & Cottman Av Loop / Torresdale Av & Princeton Av / Torresdale Av & Wellington St (28, 56, 70) (3 stations)",40.029113,-75.03727433333334
+cluster_38,"26th St & Poplar St / 27th St & Brown St / 27th St & Poplar St / Girard Av & 26th St / Girard Av & 27th St / Girard Av & 28th St / Girard Av & 29th St / Poplar St & 25th St / Poplar St & Stillman St (32, 446, 448, 48, 7, G1) (9 stations)",39.97344261538462,-75.18044492307692
+cluster_39,22nd St & Cambria St / 22nd St & Lehigh Av (33) (2 stations),39.9972645,-75.167296
+cluster_40,"34th St / 36th St & Lancaster Av / 36th St & Market St / 36th St Trolley Portal Station / 36th-Sansom / Chestnut St & 34th St / Chestnut St & 37th St / Lancaster Av & 36th St (21, L1, T1, T2, T3, T4, T5) (8 stations)",39.95567736363636,-75.19368881818183
+cluster_41,"5th St & Market St - FS / 8th St & Walnut St - FS / 8th and Market / 8th-Market / Chestnut St & 6th St / Market St & 5th St / Market St & 8th St / Market St & 8th St - MBNS / Walnut St & 8th St (12, 17, 21, 33, 38, 42, 44, 47, 47M, 48, 62, 78, 9, B3, L1, L1 OWL, PATCO) (9 stations)",39.95039875,-75.15273466666666
+cluster_42,"33rd St & Dauphin St Loop (39, 54, 7)",39.992001,-75.18609
+cluster_43,Spruce St & 58th St / Spruce St & 60th St - FS (42) (2 stations),39.956269500000005,-75.2400285
+cluster_44,"52nd St & Larchwood St / 52nd St & Pine St - FS / 52nd St & Spruce St - FS / 52nd St & Walnut St / Spruce St & 50th St / Spruce St & 52nd St / Spruce St & 54th St (42, 52) (7 stations)",39.95445025,-75.226062375
+cluster_45,"40th St Portal / 42nd St & Baltimore Av / 42nd St & Chester Av / Baltimore Av & 42nd St / Baltimore Av & 43rd St / Chester Av & 42nd St / Spruce St & 40th St - FS / Spruce St & 41st St (30, 40, 42, LUCYGR, T2, T3, T4, T5) (8 stations)",39.9499062,-75.2059806
+cluster_46,"38th Parellel Pl & Dock St - FS / Spruce St & 2nd St / Spruce St & 4th St (12, 21, 42) (3 stations)",39.94482233333333,-75.14567466666666
+cluster_47,"5th St & 64th Av / 5th St & Godfrey Av / 5th St & Medary Av / Godfrey Av & 7th St / Godfrey Loop - FS (47, 57, 70, K) (5 stations)",40.04707,-75.12872066666667
+cluster_48,"10th St & Dauphin St / 12th St & Susquehanna Av - FS / 8th St & Susquehanna Av - FS (23, 47) (3 stations)",39.985894333333334,-75.149529
+cluster_49,"11th St / 12th St & Walnut St / 8th St & Market St / 9-10th and Locust / Jefferson Station / Market St & 10th St / Market St & 11th St - MBNS / Market St & 12th St / Walnut St & 10th St / Walnut St & 12th St (12, 17, 21, 23, 33, 38, 42, 44, 45, 47, 47M, 48, 61, 62, 9, AIR, CHE, CHW, FOX, L1, L1 OWL, LAN, MED, NOR, PAO, PATCO, TRE, WAR, WIL, WTR) (10 stations)",39.95057290909091,-75.15813741818182
+cluster_50,"8th St & Passyunk Av / 8th St & Washington Av / 8th St & Wharton St (47, 47M) (3 stations)",39.93473633333333,-75.15724133333333
+cluster_51,"8th St & Snyder Av / 8th St & Wolf St (47, 47M) (2 stations)",39.921963500000004,-75.1600635
+cluster_52,"7th St & Spring Garden St / 8th St & Callowhill St (47, 47M, 61) (2 stations)",39.959860500000005,-75.150957
+cluster_53,"7th St & Girard Av / 8th St & Master St / Girard Av & 5th St / Girard Av & 7th St / Girard Av & 8th St (47, G1) (5 stations)",39.970764714285714,-75.14768014285714
+cluster_54,27th St & Allegheny Av (48),40.004026,-75.173842
+cluster_55,"12th St & Market St (23, 45)",39.952187,-75.15995
+cluster_56,"10th St & Bigler St / 8th St & Oregon Av / Oregon Av & 11th St (45, 47, 47M, 63, 7) (3 stations)",39.915113999999996,-75.164312
+cluster_57,"52nd St & Girard Av - FS / 52nd St & Master St - FS / Girard Av & 51st St / Girard Av & 52nd St / Girard Av & 54th St (52, G1) (5 stations)",39.971777,-75.226073875
+cluster_58,52nd St & Haverford Av - FS / 52nd St & Westminster Av - FS (52) (2 stations),39.966313,-75.2249185
+cluster_59,"52nd St / 52nd St & Market St - south (52, L1) (2 stations)",39.960068666666665,-75.22492066666666
+cluster_60,"52nd St & Baltimore Av / 54th St & Whitby Av - FS / Baltimore Av & 51st St / Baltimore Av & 52nd St / Baltimore Av & 53rd St / Baltimore Av & 54th St / Baltimore Av & Broomall St (52, T2) (7 stations)",39.947526800000006,-75.2285476
+cluster_61,"54th St & Chester Av / Chester Av & 52nd St / Chester Av & 53rd St / Chester Av & 54th St / Chester Av & 55th St / Chester Av & 56th St (415, 52, T3) (6 stations)",39.939694333333335,-75.22290558333333
+cluster_62,"Willow Grove Park Mall (22, 310, 311, 55, 95)",40.142263,-75.122493
+cluster_63,"Erie Av & Kensington Av - FS / Erie-Torresdale (56, L1) (2 stations)",40.005870333333334,-75.09652233333334
+cluster_64,"Fern Rock T C / Fern Rock Transit Center (28, 57, 70, AIR, B1, B1 OWL, B2, B3, LAN, MED, WAR, WTR) (2 stations)",40.04144853333333,-75.13614973333334
+cluster_65,"Frankford Transit Center / Frankford Transit Center - Main Dropoff / Frankford Transit Center - Rt 58 / Frankford Transit Center - Rt 66 / Frankford Transit Center-14-BLVDDIR-MFO (14, 19, 20, 24, 26, 3, 50, 58, 66, 67, 88, BLVDDIR, L1, L1 OWL) (5 stations)",40.023185833333336,-75.07769633333334
+cluster_66,"Bells Corner Loop / Bustleton Av & Solly Av / Bustleton Av & Strahle St - FS / Castor Av & Arthur St / Castor Av & Hoffnagle St / Castor Av & Rhawn St / Castor Av & Solly Av / Castor Av & Stanwood St (58, 59) (8 stations)",40.0641895,-75.05351641666667
+cluster_67,"Chelten Av & Germantown Av / Chelten Av & Germantown Av - FS / Germantown Av & Chelten Av (23, 26, 41, 438, 439, 65, K) (3 stations)",40.035634666666674,-75.174852
+cluster_68,"Cottman Av & Oxford Av / Cottman Av & Rising Sun Av - FS / Cottman Av & Rockwell Av / Cottman Av & Tabor Av - FS / Oxford Av & Verree Rd - MBNS / Ryers (18, 24, 495, 67, 70, 77, FOX) (6 stations)",40.062293385714284,-75.0840547
+cluster_69,"Cottman Av & Tabor Av / Cottman Av & Whitaker Av / Cottman Av & Whitaker Av - FS (67, 70, 77) (3 stations)",40.058143,-75.07816100000001
+cluster_70,Snyder Av & 29th St (79),39.92749,-75.194395
+cluster_71,"69th St Blvd & Chestnut St / 69th St Transit Center / 69th St Transit Center North Terminal / 69th St Transit Center South Terminal (103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 120, 123, 21, 30, 65, 68, L1, L1 OWL, M1) (4 stations)",39.96202985714286,-75.25869228571428
+cluster_72,"69th St & Marshall Rd / 69th St & Walnut St (107, 108, 113, 68) (2 stations)",39.9553675,-75.258294
+cluster_73,"Church Ln & Baltimore Av / Church Ln & Penn St - FS / Fernwood-Yeadon (108, 68, MED) (3 stations)",39.9399314,-75.25600643333333
+cluster_74,"Chester Av & 65th St / Chester Av & 65th St - FS / Chester Av & Church Ln / Chester Av & Duncan Av / Chester Av & Stetser Av / Chester Av & Yeadon Av / Church Ln & Chester Av / Church Ln & Rader Av - FS (108, 68, T3) (8 stations)",39.92696390909091,-75.24722281818181
+cluster_75,"Erie / Erie Av & 16th St / Germantown Av & Butler St / Germantown Av & Venango St (23, 53, 56, 71, 81, B1, B2, B3) (4 stations)",40.009369199999995,-75.1517456
+cluster_76,"Broad-Allegheny / Germantown Av & Allegheny Av / Germantown Av & Rising Sun Av (23, B1) (3 stations)",40.002062,-75.15083175000001
+cluster_77,10th St & Cumberland St / Germantown Av & Lehigh Av (23) (2 stations),39.99165,-75.14818700000001
+cluster_78,"12th St & Girard Av / 12th St & Master St / Broad-Girard / Girard Av & 11th St / Girard Av & 12th St / Girard Av & Broad St (23, B1, B2, B3, G1) (6 stations)",39.971472399999996,-75.15683349999999
+cluster_79,"12th St & Federal St / 12th St & Washington Av / Ellsworth-Federal (45, B1) (3 stations)",39.93626075,-75.16524325
+cluster_80,Germantown Av & Gorgas Ln / Germantown Av & Westview St - FS (23) (2 stations),40.054058,-75.186476
+cluster_81,"19th St & Girard Av / Girard Av & 17th St / Girard Av & 19th St / Girard Av & 20th St / Girard Av & Corinthian Av / Girard Av & Ridge Av (33, G1) (6 stations)",39.97248781818182,-75.16748190909091
+cluster_82,Bustleton Av & Cottman Av / Bustleton Av & Saint Vincent St (58) (2 stations),40.04666,-75.06030899999999
+cluster_83,19th St & Brown St (33),39.968975,-75.168285
+cluster_84,"19th St & Callowhill St / 20th St & Ben Franklin Pkwy / 21st St & Ben Franklin Pkwy (32, 33, 48, 49, 7) (3 stations)",39.96001066666667,-75.17191066666668
+cluster_85,19th St & Green St (33),39.964871,-75.169162
+cluster_86,22nd St & York St (33),39.991154,-75.168618
+cluster_87,"29th St & Montgomery Av / 29th St & Oxford St (48, 49, 7) (2 stations)",39.981727,-75.181833
+cluster_88,"21st St & Arch St (48, 49, 7)",39.955931,-75.174675
+cluster_89,22nd St & Berks St / 22nd St & Cecil B Moore Av (33) (2 stations),39.981952,-75.17066550000001
+cluster_90,22nd St & Diamond St (33),39.986479,-75.169686
+cluster_91,"Allegheny Av & 32nd St (1, 60, 82)",40.005335,-75.181566
+cluster_92,"35th St & Allegheny Av Loop / Allegheny Av & 35th St (1, 60, 82) (2 stations)",40.006009500000005,-75.186545
+cluster_93,Champlost Av & 16th St / Champlost Av & Broad St (6) (2 stations),40.044587,-75.145277
+cluster_94,"City Av & Berwick Rd - FS (63, 65)",39.993001,-75.243889
+cluster_95,"Erie Av & 20th St / Erie Av & 22nd St / Hunting Park Av & 22nd St (2, 33, 445, 447, 56, 71, 81, 82) (3 stations)",40.0106915,-75.1624955
+cluster_96,Ogontz Av & 74th Av / Ogontz Av & 76h Av (6) (2 stations),40.0685325,-75.156803
+cluster_97,"Nedro Av & 19th St / Ogontz Av & Roselyn St (51, 6) (2 stations)",40.044716,-75.1511295
+cluster_98,"Oregon Av & 4th St - FS / Oregon Av & 6th St (47, 47M, 57, 63, 7) (2 stations)",39.91496766666666,-75.15709233333332
+cluster_99,"Ridge Av & Jefferson St (33, 61)",39.977367,-75.169566
+cluster_100,"Nedro Av & 21st St / Olney Av & Penn Blvd - FS / Wister St & Sprague St (18, 26, 51) (3 stations)",40.044038666666665,-75.15758633333333
+cluster_101,Stenton Av & Walnut Ln / Wister St & Stenton Av (51) (2 stations),40.0557965,-75.15904549999999
+cluster_102,Stenton Av & Upsal St (51),40.062586,-75.170652
+cluster_103,Stenton Av & Sedgwick St / Stenton Av & Vernon Rd (51) (2 stations),40.0659765,-75.176536
+cluster_104,Stenton Av & Roumfort Rd (51),40.071623,-75.186387
+cluster_105,Stenton Av & Mermaid Ln (51),40.074157,-75.190637
+cluster_106,Stenton Av & Cresheim Valley Rd / Stenton Av & Willow Grove Av (51) (2 stations),40.0772555,-75.1961215
+cluster_107,Evergreen Av & Prospect Av / Stenton Av & Gravers Ln (51) (2 stations),40.0799305,-75.20181450000001
+cluster_108,"Germantown Av & Harvey St / Germantown Av & High St / Germantown Av & Tulpehocken St (23, 438, 439, 65) (3 stations)",40.04018833333333,-75.17838
+cluster_109,"Chelten Av & Wayne Av / Chelten Avenue (26, 41, 438, 439, 65, CHW) (2 stations)",40.030950000000004,-75.17984115
+cluster_110,"Chelten Av & Magnolia St (26, K)",40.041581,-75.168753
+cluster_111,"Olney / Olney Av & B St / Olney Av & Front St (18, 26, 57, FOX) (3 stations)",40.03469946,-75.12016056
+cluster_112,Germantown Av & Ashmead St / Germantown Av & Seymour St (23) (2 stations),40.0300915,-75.165231
+cluster_113,"Courtland St & 17th St / Courtland St & 18th St / Courtland St & 19th St / Courtland St & Windrum Av / Germantown Av & Dennie St / Germantown Av & Windrim Av / Roberts Av & Green St / Wayne Av & Roberts Av / Wayne Junction / Windrim Av & Germantown Av / Windrim Av & Wayne Av / Windrum Av & 20th St - MBNS / Windrum Av & Germantown Av / Wingohocking St & 17th St / Wingohocking St & 18th St / Wingohocking St & 19th St / Wingohocking St & Uber St (2, 23, 75, AIR, CHE, FOX, LAN, MED, WAR) (17 stations)",40.02257983529412,-75.1572795882353
+cluster_114,"Germantown Av & Hunting Park Av / Germantown Av & Juniata St / Hunting Park Av & Germantown Av (1, 23, 445, 82) (3 stations)",40.01664333333333,-75.15440833333334
+cluster_115,"Chew Av & Penn Blvd / Olney Av & 20st St - MBFS / Olney Av & 20th St - MBNS (18, 26) (3 stations)",40.04080366666667,-75.15702700000001
+cluster_116,"Olney Av & 18th St - FS / Olney Av & 18th St - MBNS (18, 26) (2 stations)",40.0392345,-75.1523215
+cluster_117,"Olney Av & 11th St / Olney Av & Wagner Av (18, 26) (2 stations)",40.03765933333333,-75.13852033333333
+cluster_118,"Olney Av & 6th St (18, 26)",40.036694,-75.1324805
+cluster_119,"Olney Av & 3rd St (18, 26)",40.036027,-75.127748
+cluster_120,"Bustleton Av & Unruh Av / Roosevelt Blvd & Hellerman St (1, 14, 20, 26, 433, 58) (2 stations)",40.037688,-75.0672835
+cluster_121,Germantown Av & Indiana Av (23),39.997774,-75.146899
+cluster_122,"12th St & Montgomery Av / 12th St & Norris St / Temple University (23, AIR, CHE, CHW, FOX, LAN, MED, NOR, PAO, TRE, WAR, WIL, WTR) (3 stations)",39.98136496666667,-75.15217313333333
+cluster_123,"12th St & Oxford St / Cecil B. Moore (23, B1) (2 stations)",39.97808033333333,-75.15676533333334
+cluster_124,"12th St & Parrish St / 12th St & Wallace St / Fairmount (23, B1, B3) (3 stations)",39.96673625,-75.15861100000001
+cluster_125,"12th St & Noble St / 12th St & Ridge Av / Broad-Spring Garden (23, B1, B2) (3 stations)",39.9617675,-75.159687
+cluster_126,"12th St & Race St / Race-Vine (23, 45, B1, B2) (2 stations)",39.956646666666664,-75.16143333333333
+cluster_127,"5th St & Cumberland St / 6th St & Dauphin St / Dauphin St & 6th St (39, 47) (3 stations)",39.987158,-75.142675
+cluster_128,6th St & Cambria St / 6th St & Lehigh Av (47) (2 stations),39.993992,-75.141915
+cluster_129,"8th St & Montgomery Av / 8th St & Norris St / Berks St & Germantown Av (3, 47) (3 stations)",39.98035133333334,-75.14639233333334
+cluster_130,8th St & Oxford St (47),39.976171,-75.148779
+cluster_131,8th St & Brown St / 8th St & Poplar St (47) (2 stations),39.966822,-75.1508655
+cluster_132,"8th St & Cherry St / Chinatown / Franklin Square (47, 47M, 61, B3, PATCO) (3 stations)",39.95489129698931,-75.15238819939236
+cluster_133,"8th St & Lombard St / 8th St & Spruce St (12, 47, 47M) (2 stations)",39.944671,-75.1550785
+cluster_134,"8th St & Fitzwater St (47, 47M)",39.940657,-75.155955
+cluster_135,"8th St & Dickinson St / 8th St & Morris St (47, 47M) (2 stations)",39.929283,-75.158466
+cluster_136,"8th St & Porter St (47, 47M)",39.91823,-75.160869
+cluster_137,"12-13th and Locust / 12th St & Lombard St / 12th St & Spruce St / Lombard-South (45, B1, PATCO) (4 stations)",39.9453984,-75.163185
+cluster_138,12th St & Fitzwater St (45),39.941447,-75.162258
+cluster_139,"12th St & Reed St / 12th St & Tasker St / Tasker-Morris (45, B1) (3 stations)",39.93056525,-75.166492
+cluster_140,12th St & McKean St / 12th St & Moore St (45) (2 stations),39.926460000000006,-75.1655655
+cluster_141,12th St & Jackson St / 12th St & Ritner St (45) (2 stations),39.921536,-75.166634
+cluster_142,"Old York Rd & 65th Av (22, 55, K)",40.052279,-75.142663
+cluster_143,Germantown Av & Abbottsford Av (23),40.026641,-75.160415
+cluster_144,Germantown Av & Coulter St (23),40.033141,-75.170451
+cluster_145,Germantown Av & Cliveden St / Germantown Av & Duval St (23) (2 stations),40.045847,-75.182117
+cluster_146,Germantown Av & Sharpnack St (23),40.049252,-75.183826
+cluster_147,"Snyder Av & 3rd St (57, 79)",39.922028,-75.150963
+cluster_148,Germantown Av & Allens Ln / Germantown Av & Mt Pleasant Av (23) (2 stations),40.059774000000004,-75.1904955
+cluster_149,"Germantown Av & McPherson St / Mount Airy (23, CHE) (2 stations)",40.064811899999995,-75.19244265
+cluster_150,Germantown Av & Moreland Av / Germantown Av & Willow Grove Av (23) (2 stations),40.069666999999995,-75.199641
+cluster_151,Torresdale Av & Adams Av - FS (56),40.006651,-75.087974
+cluster_152,"American St & Dauphin St (57, 89)",39.985391,-75.137389
+cluster_153,"Lehigh Av & 2nd St (54, 57)",39.991374,-75.135144
+cluster_154,"Cottman Av & Algon St (18, 70, 77)",40.055341,-75.073137
+cluster_155,"Cottman Av & Ryers Av (24, 70, 77)",40.06483,-75.0895715
+cluster_156,"Godfrey Av & 10th St (57, 70)",40.046265,-75.135675
+cluster_157,Torresdale Av & Comly St (56),40.01753,-75.059342
+cluster_158,Torresdale Av & Hellerman St / Torresdale Av & Robbins Av (56) (2 stations),40.021367999999995,-75.051917
+cluster_159,Torresdale Av & Longshore Av / Torresdale Av & Unruh Av (56) (2 stations),40.024979,-75.04494700000001
+cluster_160,"Bridesburg / Torresdale Av & Pratt St (25, 56, TRE) (2 stations)",40.0117448,-75.0707666
+cluster_161,Erie Av & J St / Erie Av & L St (56) (2 stations),40.005584999999996,-75.1052215
+cluster_162,"Torresdale Av & Margaret St (25, 56)",40.011449,-75.07696
+cluster_163,"Erie Av & F St - MBFS / Erie Av & G St (56, 89) (2 stations)",40.006155500000006,-75.115377
+cluster_164,"Erie Av & 18th St (2, 56, 71, 81)",40.0100605,-75.15758149999999
+cluster_165,5th St & Clearfield St (47),39.998044,-75.138803
+cluster_166,"Fairfield Av / Walnut St / West Chester Pk & Brief Av (104, 110, 111, 112, 120, 123, 126, D1, D2) (3 stations)",39.960427800000005,-75.2647006
+cluster_167,"West Chester Pk & Golf Rd (104, 110, 111, 112, 120, 123, 126)",39.96368,-75.2678
+cluster_168,"Front St & Coral St / Front St & Dauphin St / York-Dauphin (3, L1, L1 OWL) (3 stations)",39.9842855,-75.132234
+cluster_169,"Kensington Av & Somerset St / Somerset (3, 54, L1, L1 OWL) (2 stations)",39.99141533333333,-75.12252466666666
+cluster_170,"Grace Rd & Copley Rd - FS / Long Ln & Guilford Rd (108, 68) (2 stations)",39.9515175,-75.262336
+cluster_171,"Long Ln & Atlantic Av - FS / Long Ln & Lewis Av (108, 68) (2 stations)",39.946434499999995,-75.2587465
+cluster_172,"Church Ln & Baily Rd / Church Ln & Whitby Av (108, 68) (2 stations)",39.935381500000005,-75.252415
+cluster_173,"Church Ln & Parmley Av (108, 68)",39.932169,-75.249477
+cluster_174,"10th St & Main St / 10th St & Ridge Av / 10th St & Summit St / 9th St & Main St - MBFS / 9th St & Ridge Av / 9th St & Summit St / Darby Transit Center / Darby Transit Center - bus / Main St & 12th St / Main St & Mill St / Main St & Powell Av / SEPTA Private Way & MacDade Blvd (113, 114, 115, T3, T4) (12 stations)",39.91999741666667,-75.26180741666667
+cluster_175,"City Av & 54th St (52, 65)",39.996969,-75.235383
+cluster_176,"Fox Chase / Fox Chase Loop (18, 490, FOX) (2 stations)",40.07652145,-75.08442815000001
+cluster_177,"Roosevelt Blvd & Grant Av - FS (1, 14, BLVDDIR)",40.080991,-75.028078
+cluster_178,8th St & Mifflin St (47),39.925599,-75.159283
+cluster_179,"49th St & Paschall Av / 49th St & Woodland Av / Grays Av & 51st St / Woodland Av & 48th St / Woodland Av & 49th St / Woodland Av & 50th St / Woodland Av & 51st St / Woodland Av & 52nd St (12, 52, 64, T4, T5) (8 stations)",39.939697466666665,-75.21327966666666
+cluster_180,20th St & Lombard St (17),39.945739,-75.17477
+cluster_181,"37th-Spruce / Spruce St & 38th St / University Av & Baltimore Av - MBFS (30, 40, 42, LUCYGR, T2, T3, T4, T5) (3 stations)",39.9505255,-75.19819925
+cluster_182,"34th St & Convention Av / Civic Center Blvd & Osler Cir / Health Sciences Dr & Civic Ctr Blvd - MBFS / Penn Medicine Station (30, 42, 49, AIR, LAN, LUCYGO, LUCYGR, MED, WIL) (4 stations)",39.947547650000004,-75.1936862
+cluster_183,"33rd St & Locust St / Civic Center Blvd & Convention Av - FS (30, 42, 49, LUCYGR) (2 stations)",39.9501805,-75.191587
+cluster_184,"Gray 30th Street / Market St & 24th St - MBFS (124, 125, 31, 44, 49, 62, AIR, CHE, CHW, CYN, FOX, LAN, MED, NOR, PAO, TRE, WAR, WIL, WTR) (2 stations)",39.95554935,-75.18052334999999
+cluster_185,"52nd St & Lancaster Av - FS / Lancaster Av & 52nd St / Lancaster Av & Bible Way / Lansdowne Av & 54th St / Lansdowne Av & 55th St / Lansdowne Av & Lancaster Av (52, T1) (6 stations)",39.97706028571429,-75.22835914285714
+cluster_186,54th St & Florence Av (52),39.942969,-75.226945
+cluster_187,"Roosevelt Blvd & Red Lion Rd / Roosevelt Blvd & Red Lion Rd - FS (1, 14, 450, BLVDDIR) (2 stations)",40.094508,-75.0155065
+cluster_188,"56th St & Larchwood Av / Spruce St & 56th St (42, 63) (2 stations)",39.9543245,-75.234335
+cluster_189,Spruce St & 48th St (42),39.953566,-75.218247
+cluster_190,"Baltimore Av & 43rd St / Baltimore Av & 44th St / Baltimore Av & 45th St / Baltimore Av & 46th St / Spruce St & 43rd St / Spruce St & 45th St (42, T2) (6 stations)",39.95019242857143,-75.21157857142857
+cluster_191,"Bustleton Av & Cheltenham Av / Bustleton Av & Cheltenham Av - FS / Cheltenham Av & Frankford Av - MBNS / Frankford Av & Cheltenham Av / Frankford Av & Cheltenham Av - MBFS (14, 20, 26, 58, 66, 88) (5 stations)",40.026298600000004,-75.073818
+cluster_192,"Roosevelt Blvd & 9th St / Wyoming Av & 10th St / Wyoming Av & 11th St / Wyoming Av & 12th St / Wyoming Av & 13th St / Wyoming Av & 9th St (1, 445, 447, 75, 82) (6 stations)",40.02344166666666,-75.14174855555557
+cluster_193,"Roosevelt Blvd & Mascher St / Roosevelt Blvd & Rising Sun - FS (1, 426, 433, 445, 447, 82) (2 stations)",40.0252405,-75.12382199999999
+cluster_194,"Roosevelt Blvd & Welsh Rd (1, 14, BLVDDIR)",40.07389,-75.034919
+cluster_195,"Franklin Mills & Design Center Dr (129, 130, 20, 50, 67, 84)",40.090806,-74.965006
+cluster_196,Oak Ln & Brookfield Rd (70),40.060837,-75.11234
+cluster_197,Ashbourne Rd & Croyden Rd (70),40.061319,-75.105123
+cluster_198,Ashbourne Rd & Oak Hill Dr (70),40.061903,-75.100035
+cluster_199,"Central Av & Ashbourne Rd - FS / Central Av & Myrtle Av / Cheltenham (70, FOX) (3 stations)",40.05998653333334,-75.0940116
+cluster_200,"Roosevelt Blvd & Old Lincoln Hwy - MBFS (1, 14, BLVDDIR)",40.120606,-74.979135
+cluster_201,"Roosevelt Blvd & Southampton - FS (1, 14, BLVDDIR)",40.11416,-74.988514
+cluster_202,Oak Ln Rd & Parkview Rd (70),40.05844,-75.117306
+cluster_203,Oak Ln Rd & New 2nd St (70),40.056468,-75.121335
+cluster_204,"Bustleton Av & Napfle St / Roosevelt Blvd & Borbeck Av / Roosevelt Blvd & Napfle St (1, 14, 20, 58) (3 stations)",40.053423,-75.05191133333334
+cluster_205,"Roosevelt Blvd & Shelmire Av (1, 14, 20)",40.048817,-75.051707
+cluster_206,"Roosevelt Blvd & Tyson Av (1, 14, 20)",40.040699,-75.05901
+cluster_207,"Roosevelt Blvd & Unruh Av (1, 14, 20)",40.037256,-75.062953
+cluster_208,Bustleton Av & Tyson Av - FS (58),40.042995,-75.062959
+cluster_209,"Rockhill Rd & Neshaminy Blvd - MBNS / Rockhill Rd & Neshaminy Rd - MBFS (128, 130, 14, 58, BLVDDIR) (2 stations)",40.136610000000005,-74.9571075
+cluster_210,Bustleton Av & Tolbut St / Bustleton Av & Tustin St (58) (2 stations),40.072432,-75.048371
+cluster_211,Bustleton Av & Borbeck Av / Bustleton Av & Rhawn St (58) (2 stations),40.058129,-75.0527515
+cluster_212,Bustleton Av & Shelmire Av (58),40.05102,-75.057159
+cluster_213,"Roosevelt Blvd & F St / Roosevelt Blvd & Garland St / Roosevelt Blvd & Whitaker Av (41, 426, 445, 447, 82) (3 stations)",40.0285055,-75.10811775
+cluster_214,"Oxford Av & Bridge St / Oxford Av & Pratt St / Oxford Av & Roosevelt Blvd / Oxford Av & Sanger St / Pratt St & Castor Av / Pratt St & Roosevelt Blvd / Pratt St & Roosevelt Blvd - FS (24, 426, 445, 447, 495, 59, 8, 82) (7 stations)",40.0287205,-75.0862071
+cluster_215,"Snyder Av & Dilworth St - MBNS (25, 63, 79)",39.92104,-75.144097
+cluster_216,"58th St & Hoffman Av / 58th St & Whitby Av (409, 63) (2 stations)",39.9426765,-75.236593
+cluster_217,"58th St & Florence Av / 58th St & Springfield Av (409, 63) (2 stations)",39.937924499999994,-75.231192
+cluster_218,"62nd St & Grays Av / 62nd St & Woodland Av - FS / Kingsessing Av & 62nd St / Woodland Av & 61st St / Woodland Av & 62nd St / Woodland Av & 63rd St / Woodland Av & 64th St / Woodland Av & 65th St (409, 411, 415, 63, T3, T4) (8 stations)",39.927752416666664,-75.2317455
+cluster_219,63rd St & Passyunk Av - 2 (63),39.917257,-75.216419
+cluster_220,"Oregon Av & 24th St - FS (63, 7)",39.919464,-75.18826
+cluster_221,"Oregon Av & 18th St (63, 7)",39.917552,-75.177844
+cluster_222,Berks St & 3rd St (3),39.979453,-75.140119
+cluster_223,"Berks / Berks St & Front St (3, L1) (2 stations)",39.978614,-75.133562
+cluster_224,"Erie Av & Roberto Clemente Walk (428, 56, 57)",40.00716,-75.130021
+cluster_225,"29th St & Ridge Av (48, 49, 7)",39.986654,-75.180768
+cluster_226,"6th St & Welsh St - Chester Tran Ctr / Chester (109, 114, 118, WIL) (2 stations)",39.8496751,-75.3601475
+cluster_227,"63rd St & Columbia Av / 63rd St & Lebanon Av / 63rd-Malvern / Malvern Av & 63rd St (46, 63, T1) (4 stations)",39.982257249999996,-75.246522
+cluster_228,Packer Av & Broad St (45),39.911676,-75.171905
+cluster_229,10th St & Packer Av (45),39.91086,-75.165723
+cluster_230,Kensington-Allegheny (L1),39.9965025,-75.11346950000001
+cluster_231,NRG Station (B1),39.9054285,-75.173857
+cluster_232,"Girard Av & 49th St / Girard Av & Lancaster Av / Girard Av & Merion Av / Lancaster Av & 47th St / Lancaster Av & 48th St / Lancaster Av & 49th St / Lancaster Av & Girard Av / Lancaster Av & Thompson St (G1, T1) (8 stations)",39.9727307,-75.2177207
+cluster_233,"40th St / 40th St & Filbert St / 40th-Market (30, 40, L1, T1, T2, T3, T4, T5) (3 stations)",39.95737325,-75.20196200000001
+cluster_234,"Main St & 2nd St / Main St & 3rd St / Main St & Front St / Woodland Av & 72nd St / Woodland Av & Island Av (T2, T4) (5 stations)",39.91715066666667,-75.24799111111112
+cluster_235,"65th St & Chester Av / 65th St & Chester St / 65th St & Kingsessing Av / Kingsessing Av & 65th St / Mt. Moriah / Woodland Av & 65th St / Woodland Av & 66th St / Woodland Av & 67th St (T3, T4) (8 stations)",39.92728544444444,-75.23654222222223
+cluster_236,"49th Street / Chester Av & 47th St / Chester Av & 48th St / Chester Av & 49th St / Chester Av & 51st St (MED, T3) (5 stations)",39.944321566666666,-75.21627196666667
+cluster_237,10th St & Mulberry Av / 10th St & Wycombe Av / 9th St & Cedar Av / Chester Av & Alfred Av / Chester Av & Cedar Av / Chester Av & Stetser Av / Yeadon (T3) (7 stations),39.92379766666667,-75.25466733333333
+cluster_238,"Frankford Av & Delaware Av - FS / Frankford Av & Delaware Av Loop / Frankford Av & Girard Av / Frankford Av & Girard Av - FS / Frankford Av & Richmond St / Front-Girard / Girard Av & 2nd St / Girard Av & Frankford Av- FS / Girard Av & Front St (25, 5, G1, L1) (9 stations)",39.96792507692308,-75.13573076923078
+cluster_239,Girard Av & 39th St / Girard Av & 40th St / Girard Av & 40th St - FS / Girard Av & 41st St / Girard Av & 42nd St (G1) (5 stations),39.973999875000004,-75.205390875
+cluster_240,"Girard Av & 57th St / Girard Av & 59th St / Girard Av & 60th St / Girard Av & 61st St / Haverford Av & 61st St (30, G1) (5 stations)",39.9702505,-75.23794925
+cluster_241,"61st-Baltimore / Baltimore Av & 59th St / Baltimore Av & 60th St (46, 63, T2) (3 stations)",39.9446676,-75.243738
+cluster_242,Baltimore Av & 47th St / Baltimore Av & 48th St / Baltimore Av & 49th St / Baltimore Av & 50th St / Baltimore Av & Florence Av (T2) (5 stations),39.94828625,-75.220236375
+cluster_243,"73rd St & Elmwood Av / Elmwood Av & 71st St / Elmwood Av & 72nd St / Elmwood Av & 73rd St / Elmwood Av & Island Av / Elmwood Av & Island Av - MBFS / Elmwood Loop / Island Av & Buist Av - 2 bus / Island Av & Buist Av - FS (415, 68, T2, T5, T5 Bus) (9 stations)",39.91404058333333,-75.24152933333333
+cluster_244,Girard Av & Richmond St / Richmond St & Cumberland St / Richmond St & Girard Av / Richmond St & Huntingdon St (G1) (4 stations),39.97426816666667,-75.11781016666667
+cluster_245,Castor Av & Devereaux Av / Castor Av & Hellerman St / Castor Av & Levick St / Castor Av & Robbins Av (59) (4 stations),40.0388175,-75.078031125
+cluster_246,"Castor Av & Bleigh Av / Castor Av & Cottman Av / Castor Av & Elgin Av / Castor Av & Saint Vincent St (433, 59) (4 stations)",40.051231666666666,-75.06609
+cluster_247,"City Line Loop / Frankford Av & Lyman Dr / Frankford Av & Lyman Dr - FS / Frankford Av & Morrell Av (129, 130, 133, 450, 66) (4 stations)",40.0640104,-74.9838246
+cluster_248,"Frankford Av & Decatur St / Frankford Av & Hartel Av / Frankford Av & Lansing St - FS / Frankford Av & Rhawn St - FS / Frankford Av & Welsh Rd (484, 66) (5 stations)",40.041161625,-75.0288065
+cluster_249,Frankford Av & Cottman Av / Frankford Av & Cottman Av - FS / Frankford Av & Princeton Av / Frankford Av & Princeton Av - FS / Frankford Av & Wellington St (66) (5 stations),40.03597042857143,-75.04239942857143
+cluster_250,Frankford Av & Harbison Av / Frankford Av & Hawthorne St / Frankford Av & Hellerman St / Frankford Av & Levick St / Frankford Av & Robbins Av (66) (5 stations),40.028330625,-75.059103125
+cluster_251,Frankford Av & Knorr St / Frankford Av & Longshore Av / Frankford Av & Longshore Av - FS / Frankford Av & Magee Av / Frankford Av & Magee St / Frankford Av & Unruh Av / Frankford Av & Unruh St (66) (7 stations),40.031890625,-75.051966375
+cluster_252,"15th St & Belfield Av / 15th St & Courtland St / 16th St & Courtland St / Wingohocking St & 15th St / Wyoming / Wyoming Av & 12th St / Wyoming Av & 13th St / Wyoming Av & 15th St / Wyoming Av & 16th St / Wyoming Av & Broad St / Wyoming Av & Broad St - FS / Wyoming Av & Old York Rd (75, B1) (12 stations)",40.024211666666666,-75.14836013333334
+cluster_253,"Castor Av & Orthodox Av - MBNS / Castor Av & Orthodox St / Castor Av & Orthodox St - MBNS / Castor Av & Wyoming Av / Orthodox St & Adams Av / Orthodox St & Large St / Wyoming Av & Castor Av - MBNS / Wyoming Av & Ramona Av - MBNS (41, 495, 75, 89) (8 stations)",40.019117125,-75.096347125
+cluster_254,"Frankford Av & Battersby St / Frankford Av & Benner St / Frankford Av & Comly St (26, 66) (3 stations)",40.026844,-75.06653725000001
+cluster_255,"Frankford Av & Arendell Av / Frankford Av & Ellie Dr / Frankford Av & Ellie Dr - FS at Gregg St Loop / Frankford Av & Gregg St Loop / Frankford Av & Linden Av / Frankford Av & Pearson Av / Frankford Av & Pearson Av - FS (450, 462, 66, 70, 88) (7 stations)",40.05515,-75.004102
+cluster_256,Logan (B1),40.0306175,-75.1465325
+cluster_257,Susquehanna-Dauphin (B1),39.9870265,-75.156068
+cluster_258,Snyder (B1),39.9243755,-75.169705
+cluster_259,Bridgeport (M1),40.104955000000004,-75.3481415
+cluster_260,Gulph Mills (M1),40.0708605,-75.34233699999999
+cluster_261,Stadium / Villanova - NHSL (M1) (2 stations),40.03336075,-75.342386
+cluster_262,Roberts Rd (M1),40.021401,-75.3302875
+cluster_263,Beechwood-Brookline (M1),39.9865165,-75.291466
+cluster_264,Parkview (M1),39.968990500000004,-75.2748155
+cluster_265,Township Line Rd (M1),39.9747955,-75.2815775
+cluster_266,Penfield (M1),39.981006,-75.2839865
+cluster_267,Wynnewood Rd (M1),39.993387,-75.29822899999999
+cluster_268,Ardmore Av (M1),39.9999,-75.309449
+cluster_269,Haverford - NHSL (M1),40.009799,-75.3151405
+cluster_270,Bryn Mawr - NHSL (M1),40.018044,-75.323395
+cluster_271,Garrett Hill (M1),40.027961000000005,-75.336408
+cluster_272,Radnor - NHSL (M1),40.042079,-75.353617
+cluster_273,Matsonford (M1),40.0581885,-75.339455
+cluster_274,Hughes Park (M1),40.081526,-75.34912650000001
+cluster_275,DeKalb St (M1),40.0987585,-75.35206550000001
+cluster_276,"Avon Rd / Beverly Blvd / Hilltop Rd (D1, D2) (3 stations)",39.9565116,-75.27162080000001
+cluster_277,"Congress Av / Lansdowne Av (D1, D2) (2 stations)",39.952344,-75.28073225
+cluster_278,"Drexel Hill Junction / Drexel Park / Irvington Rd (D1, D2) (3 stations)",39.948268999999996,-75.2900836
+cluster_279,Leamy Av / Woodland Av (D1) (2 stations),39.92548225,-75.33850075
+cluster_280,Springfield Mall (D1),39.9181445,-75.3489385
+cluster_281,Beatty Rd / Manchester Av / Providence Rd (D1) (3 stations),39.9166195,-75.38012416666668
+cluster_282,Jackson St / Olive St / Orange St/Media / Veterans Sq (D1) (4 stations),39.918219125,-75.39162412499999
+cluster_283,Scenic Rd (D1),39.940743,-75.325996
+cluster_284,"Baltimore Av / Clifton-Aldan / Penn St / Springfield Rd (D2, MED) (4 stations)",39.928768528571425,-75.29218025714285
+cluster_285,Bartram Av / Magnolia Av / North St (D2) (3 stations),39.917223,-75.28551116666667
+cluster_286,Andrews Av / MacDade Blvd (D2) (2 stations),39.9109585,-75.2814085
+cluster_287,"North Broad / North Philadelphia (B1, B3, LAN, MED, NOR) (2 stations)",39.99336706666667,-75.15435496666667
+cluster_288,Millbourne (L1),39.964355499999996,-75.252243
+cluster_289,63rd St (L1),39.96275,-75.246767
+cluster_290,60th St (L1),39.961991499999996,-75.240757
+cluster_291,56th St (L1),39.961002,-75.232853
+cluster_292,46th St (L1),39.958655,-75.214028
+cluster_293,Spring Garden (L1),39.960542000000004,-75.140402
+cluster_294,Huntingdon (L1),39.988834499999996,-75.127303
+cluster_295,Tioga (L1),40.000322499999996,-75.1064685
+cluster_296,Church (L1),40.010919,-75.0887045
+cluster_297,Castor Av & Benner St / Castor Av & Comly St / Castor Av & Roosevelt Blvd / Castor Av & Van Kirk St (59) (4 stations),40.03420671428571,-75.08247385714286
+cluster_298,Castor Av & Knorr St / Castor Av & Longshore Av / Castor Av & Longshore Av - FS / Castor Av & Tyson Av / Castor Av & Unruh Av (59) (5 stations),40.044970375,-75.0720905
+cluster_299,Castor Av & Princeton Av (59),40.048104499999994,-75.0690755
+cluster_300,"Frankford Av & Fitler St / Frankford Av & Fitler St - FS / Frankford Av & Grant Av / Frankford Av & Grant Av - FS / Frankford Av & Primrose St / Frankford Av & Primrose St - FS / Frankford Av & Stevenson St / Frankford Av & Stevenson St - FS (450, 462, 66, 84) (8 stations)",40.060253625,-74.991220125
+cluster_301,"Oxford Av & Dyre St / Oxford Av & Wakeling St (495, 59) (2 stations)",40.023311,-75.084458
+cluster_302,Providence Rd (D2),39.921710000000004,-75.28863999999999
+cluster_303,"Richmond St & Ann St / Richmond St & Cambria St / Richmond St & Somerset St (54, G1) (3 stations)",39.97897483333333,-75.1090575
+cluster_304,"63rd St & Lansdowne Av - FS / Lansdowne Av & 59th St / Lansdowne Av & 60th St / Lansdowne Av & 61st St / Lansdowne Av & 62nd St / Lansdowne Av & 63rd - FS (46, T1) (6 stations)",39.9757581,-75.241895
+cluster_305,Drexel Manor / Garrettford / Marshall Rd (D2) (3 stations),39.942141,-75.29628633333333
+cluster_306,Creek Rd (D2),39.9351,-75.295207
+cluster_307,Huey Av / School Ln (D1) (2 stations),39.948087,-75.29874925
+cluster_308,Saxer Av (D1),39.9287185,-75.33358000000001
+cluster_309,Pine Ridge (D1),39.914948,-75.369963
+cluster_310,Edgmont St / Monroe St (D1) (2 stations),39.9175295,-75.386645
+cluster_311,Aronimink (D1),39.949261,-75.3061685
+cluster_312,"Arrott St & Horrocks St / Arrott St & Large St / Arrott St & Oakland St / Orthodox St & Horrocks St / Orthodox St & Oakland St (41, 495, 75, 89, K) (5 stations)",40.0190772,-75.0902744
+cluster_313,"Arrott St & Castor Av / Castor Av &  Adams Av (41, 495, 75, 89, K) (2 stations)",40.022375,-75.093928
+cluster_314,"Beverly Blvd (D1, D2)",39.955095,-75.274822
+cluster_315,"Drexel Park (D1, D2)",39.949915,-75.286772
+cluster_316,Anderson Av / Drexelbrook (D1) (2 stations),39.947533,-75.31439
+cluster_317,Drexeline (D1),39.9446125,-75.3216745
+cluster_318,Springfield Rd (D1),39.934186,-75.32965899999999
+cluster_319,Thomson Av (D1),39.921163,-75.3454475
+cluster_320,Clifton-Aldan (D2),39.9257365,-75.29007250000001
+cluster_321,Paper Mill Rd (D1),39.915352,-75.35799449999999
+cluster_322,Sharon Hill (D2),39.906673,-75.278314
+cluster_323,Castor Av & Everett Av / Castor Av & MaGee Av (59) (2 stations),40.041914,-75.07504800000001
+cluster_324,Castor Av & Faunce St / Castor Av & Glendale Av / Castor Av & Hartel Av / Castor Av & Napfle Av / Castor Av & Shelmire Av (59) (5 stations),40.05622425,-75.061355125
+cluster_325,Castor Av & Borbeck Av / Castor Av & Borbeck St / Castor Av & Loney St / Castor Av & Rhawn St (59) (4 stations),40.060276,-75.0574964
+cluster_326,63rd St & Jefferson St (T1),39.978291999999996,-75.246107
+cluster_327,Lansdowne Av & 55th St / Lansdowne Av & 56th St / Lansdowne Av & 57th St / Lansdowne Av & 58th St (T1) (4 stations),39.976521142857145,-75.2347902857143
+cluster_328,Lancaster Av & 50th St (T1),39.9752205,-75.2224895
+cluster_329,"Lancaster Av & 43th St / Lancaster Av & 44th St / Lancaster Av & 45th St / Lancaster Av & Ogden St / Lancaster Av & Parrish St / Lancaster Av & Westminster St (43, T1) (6 stations)",39.968625333333335,-75.2112085
+cluster_330,"Lancaster Av & 41st St / Lancaster Av & 42nd St / Lancaster Av & Wallace St (43, T1) (3 stations)",39.9653684,-75.2058936
+cluster_331,"Lancaster Av & 40th St / Lancaster Av & Haverford Av / Lancaster Av & Spring Garden St (43, T1) (3 stations)",39.9624945,-75.20114275
+cluster_332,Lancaster Av & 38th St / Lancaster Av & Powelton Av (T1) (2 stations),39.960046,-75.19642633333333
+cluster_333,Main St & 3rd St / Main St & 4th St / Main St & 5th St / Main St & 6th St / Main St & Summit St (T4) (5 stations),39.91756133333334,-75.25469700000001
+cluster_334,Woodland Av & 68th St / Woodland Av & 69th St / Woodland Av & 70th St / Woodland Av & 71st St (T4) (4 stations),39.92108225,-75.240732125
+cluster_335,Woodland Av & 66th St / Woodland Av & 67th St (T4) (2 stations),39.92415200000001,-75.23627049999999
+cluster_336,"Woodland Av & 60th St (411, 63, T4)",39.930217,-75.227642
+cluster_337,"Woodland Av & 53rd St / Woodland Av & 54th St / Woodland Av & 55th St / Woodland Av & 56th St (411, 52, T4) (4 stations)",39.935891874999996,-75.219693875
+cluster_338,"Baltimore Av & 45th St / Chester Av & 42nd St / Chester Av & 43rd St / Chester Av & 45th St / Chester Av & 46th St / Woodland Av & 42nd St / Woodland Av & 43rd St / Woodland Av & 45th St / Woodland Av & 46th St (T2, T3, T4, T5) (9 stations)",39.9469555,-75.2097767857143
+cluster_339,9th St & Summit St - MBFS (T3),39.92205,-75.257482
+cluster_340,65th St & Belmar Av / 65th St & Belmar St (T3) (2 stations),39.929077,-75.24097950000001
+cluster_341,"60th St & Chester Av / Kingsessing Av & 61st St (415, T3) (2 stations)",39.931975666666666,-75.23202533333334
+cluster_342,Baltimore Av & 46th St (T2),39.948786,-75.215061
+cluster_343,Grays Av & Lindbergh Blvd / Lindbergh Blvd & 53rd St / Lindbergh Blvd & 54th St / Lindbergh Blvd & Grays Av - FS / Lindbergh Blvd & Wheeler St (T5) (5 stations),39.934320166666666,-75.21496866666666
+cluster_344,Elmwood Av & 56th St / Elmwood Av & 57th St / Elmwood Av & 58th St / Elmwood Av & 59th St (T5) (4 stations),39.92957575,-75.219870375
+cluster_345,Elmwood Av & 61st St / Elmwood Av & Edgewood Av (T5) (2 stations),39.926587999999995,-75.224347
+cluster_346,Elmwood Av & 66th St / Elmwood Av & 67th St / Elmwood Av & 68th St / Elmwood Av & 69th St (T5) (4 stations),39.919826625,-75.233732875
+cluster_347,Elmwood Av & 70th St (T5),39.9172285,-75.23743999999999
+cluster_348,Woodland Av & 47th St (T4),39.943245,-75.210839
+cluster_349,Richmond St & Lehigh Av (G1),39.976817999999994,-75.1132015
+cluster_350,Girard Av & Berks St / Girard Av & Columbia Av / Girard Av & Palmer St (G1) (3 stations),39.97096466666667,-75.128286
+cluster_351,"Girard Av & 3rd St / Girard Av & 4th St (57, G1) (2 stations)",39.969833333333334,-75.14198433333333
+cluster_352,Girard Av & 16th St (G1),39.971868,-75.1627055
+cluster_353,Girard Av & 31st St / Girard Av & 33rd St (G1) (2 stations),39.97504866666667,-75.18710033333333
+cluster_354,Girard Av & Belmont Av / Girard Av & Belmont Av - FS (G1) (2 stations),39.9732615,-75.212029
+cluster_355,Girard Av & 56th St (G1),39.9706985,-75.232572
+cluster_356,"Girard Av & 62nd St / Girard Av & 63rd St - MBFS / Haverford Av & 62nd St / Haverford Av & 63rd St (30, G1) (4 stations)",39.9709565,-75.24378975
+cluster_357,College Av & 24th St - FS / Girard Av & 24th St (G1) (2 stations),39.972421499999996,-75.175614
+cluster_358,Frankford Av & Tyson Av - FS (66),40.033687,-75.046792
+cluster_359,Frankford Av & Bleigh Av / Frankford Av & Sheffield Av / Frankford Av & Shelmire St / Frankford Av & Shelmire St - FS (66) (4 stations),40.038569833333334,-75.0359395
+cluster_360,Frankford Av & Ashburner St / Frankford Av & Ashburner St - FS / Frankford Av & Blakiston St / Frankford Av & Solly Av / Frankford Av & Stanwood St / Frankford Av & Stanwood St - FS (66) (6 stations),40.043786,-75.02063874999999
+cluster_361,"Frankford Av & Benson St - FS / Frankford Av & Kendrick St / Frankford Av & Megargee St - FS / Frankford Av & Megargee St - MBFS / Frankford Av & Pennypack Av - FS / Frankford Av & Pennypack St - FS (66, 88) (6 stations)",40.047497,-75.01405871428571
+cluster_362,"Frankford Av & Placid St / Frankford Av & Placid St - FS / Frankford Av & Tolbut St (66, 88) (3 stations)",40.0510085,-75.0096535
+cluster_363,"Frankford Av & Convent Ln / Frankford Av & Eden St (450, 462, 66) (2 stations)",40.0584315,-74.9969435
+cluster_364,Wingohocking St & 16th St (75),40.02182,-75.151898
+cluster_365,Wyoming Av & 2nd St / Wyoming Av & A St / Wyoming Av & Front St / Wyoming Av & Mascher St / Wyoming Av & Rising Sun Av (75) (5 stations),40.0216625,-75.125230375
+cluster_366,Wyoming Av & B St / Wyoming Av & C St / Wyoming Av & D St / Wyoming Av & Whitaker Av (75) (4 stations),40.020688125,-75.1173075
+cluster_367,Wyoming Av & G St / Wyoming Av & H St / Wyoming Av & Weymouth St (75) (3 stations),40.01978283333333,-75.110179
+cluster_368,Wyoming Av & Ramona Av (75),40.018722999999994,-75.1017635
+cluster_369,"Frankford Av & Delaware Av (25, G1)",39.964812,-75.134485
+cluster_370,Girard Av & 34th St - MBFS (G1),39.9749835,-75.1966025
+cluster_371,Ardmore Junction (M1),39.996275499999996,-75.30372399999999
+cluster_372,"Norristown T.C. / Norristown Transit Center (M1, NOR) (2 stations)",40.11323793333333,-75.34482956666666
+cluster_373,"Island Av & 76th St / Island Av & Lindbergh Blvd / Island Av & Lindbergh Blvd - FS / Island Av & Tanager Pl (68, T5 Bus) (4 stations)",39.9063762,-75.241024
+cluster_374,Island Av & Eastwick Loop - On Street (T5 Bus),39.899275,-75.239435
+cluster_375,"9TH Street Lansdale (LAN, WAR)",40.25,-75.2791667
+cluster_376,Airport Terminal A / Airport Terminal B / Airport Terminal C D / Airport Terminal E F (AIR) (4 stations),39.877708325,-75.24159722499999
+cluster_377,Allegheny (NOR),40.0036111,-75.1647222
+cluster_378,Richard Allen Lane (CHW),40.0575,-75.1947222
+cluster_379,"Ambler (LAN, WAR)",40.1536111,-75.2247222
+cluster_380,Ardsley (WAR),40.1141667,-75.1530556
+cluster_381,Ardmore (PAO),40.0083333,-75.2902778
+cluster_382,Bala (CYN),40.0011111,-75.2277778
+cluster_383,Berwyn (PAO),40.0480556,-75.4422222
+cluster_384,Bryn Mawr (PAO),40.0219444,-75.3163889
+cluster_385,Bristol (TRE),40.1047222,-74.8547222
+cluster_386,Bethayres (WTR),40.1166667,-75.0683333
+cluster_387,Carpenter (CHW),40.0511111,-75.1913889
+cluster_388,Chestnut Hill East (CHE),40.0811111,-75.2072222
+cluster_389,"Chalfont (LAN, WAR)",40.2877778,-75.2097222
+cluster_390,Churchman's Crossing (WIL),39.695,-75.6725
+cluster_391,Claymont (WIL),39.8041667,-75.4458333
+cluster_392,"Colmar (LAN, WAR)",40.2683333,-75.2544444
+cluster_393,Conshohocken (NOR),40.0727778,-75.3105556
+cluster_394,Cornwells Heights (TRE),40.0716667,-74.9522222
+cluster_395,Crum Lynne (WIL),39.8719444,-75.3311111
+cluster_396,Croydon (TRE),40.0936111,-74.9066667
+cluster_397,Crestmont (WAR),40.1333333,-75.1186111
+cluster_398,Curtis Park (WIL),39.9080556,-75.265
+cluster_399,Cynwyd (CYN),40.0066667,-75.2316667
+cluster_400,Daylesford (PAO),40.0430556,-75.4605556
+cluster_401,Darby (WIL),39.9130556,-75.2544444
+cluster_402,Devon (PAO),40.0472222,-75.4227778
+cluster_403,"Delaware Valley College (LAN, WAR)",40.2972222,-75.1616667
+cluster_404,Downingtown (PAO),40.0022222,-75.7102778
+cluster_405,"Doylestown (LAN, WAR)",40.3063889,-75.1302778
+cluster_406,Eddington (TRE),40.0830556,-74.9336111
+cluster_407,Eddystone (WIL),39.8572222,-75.3422222
+cluster_408,East Falls (NOR),40.0113889,-75.1919444
+cluster_409,Elwyn (MED),39.9075,-75.4116667
+cluster_410,"Elkins Park (AIR, MED, WAR, WTR)",40.0713889,-75.1277778
+cluster_411,Eastwick (AIR),39.8927778,-75.2438889
+cluster_412,Exton (PAO),40.0191667,-75.6227778
+cluster_413,Folcroft (WIL),39.9005556,-75.2797222
+cluster_414,Forest Hills (WTR),40.1277778,-75.0205556
+cluster_415,"Fortuna (LAN, WAR)",40.2594444,-75.2661111
+cluster_416,"Fort Washington (LAN, WAR)",40.1358333,-75.2122222
+cluster_417,Gladstone (MED),39.9327778,-75.2822222
+cluster_418,Glenolden (WIL),39.8963889,-75.29
+cluster_419,"Glenside (LAN, WAR)",40.1013889,-75.1536111
+cluster_420,"Gwynedd Valley (LAN, WAR)",40.1847222,-75.2569444
+cluster_421,Hatboro (WAR),40.1761111,-75.1025
+cluster_422,Haverford (PAO),40.0138889,-75.2997222
+cluster_423,Highland Avenue (WIL),39.8336111,-75.3933333
+cluster_424,Highland (CHW),40.0705556,-75.2111111
+cluster_425,Holmesburg Jct (TRE),40.0327778,-75.0236111
+cluster_426,Ivy Ridge (NOR),40.0341667,-75.2355556
+cluster_427,"Jenkintown Wyncote (AIR, LAN, MED, WAR, WTR)",40.0927778,-75.1375
+cluster_428,"Lansdale (LAN, WAR)",40.2427778,-75.285
+cluster_429,Langhorne (WTR),40.1608333,-74.9125
+cluster_430,Lawndale (FOX),40.0513889,-75.1030556
+cluster_431,Link Belt (LAN),40.2738889,-75.2466667
+cluster_432,Lansdowne (MED),39.9375,-75.2708333
+cluster_433,Levittown-Tullytown (TRE),40.1402778,-74.8169444
+cluster_434,Malvern (PAO),40.0363889,-75.5155556
+cluster_435,Manayunk (NOR),40.0269444,-75.225
+cluster_436,Meadowbrook (WTR),40.1113889,-75.0925
+cluster_437,Media (MED),39.9144444,-75.395
+cluster_438,Merion (PAO),39.9986111,-75.2513889
+cluster_439,Marcus Hook (WIL),39.8216667,-75.4194444
+cluster_440,Miquon (NOR),40.0586111,-75.2663889
+cluster_441,"Melrose Park (AIR, MED, WAR, WTR)",40.0594444,-75.1291667
+cluster_442,Main Street (NOR),40.1172222,-75.3486111
+cluster_443,Morton-Rutledge (MED),39.9077778,-75.3288889
+cluster_444,Moylan-Rose Valley (MED),39.9061111,-75.3886111
+cluster_445,Neshaminy (WTR),40.1469444,-74.9616667
+cluster_446,Newark (WIL),39.6705556,-75.7527778
+cluster_447,Noble (WTR),40.1044444,-75.1241667
+cluster_448,"North Hills (LAN, WAR)",40.1119444,-75.1694444
+cluster_449,Norwood (WIL),39.8916667,-75.3016667
+cluster_450,"North Philadelphia / North Philadelphia Amtrak (CHW, TRE) (2 stations)",39.9975,-75.15569445
+cluster_451,Narberth (PAO),40.0047222,-75.2613889
+cluster_452,Norristown - Elm Street (NOR),40.1208333,-75.345
+cluster_453,"New Britain (LAN, WAR)",40.2975,-75.1797222
+cluster_454,"North Wales (LAN, WAR)",40.2141667,-75.2772222
+cluster_455,"Oreland (LAN, WAR)",40.1183333,-75.1838889
+cluster_456,Overbrook (PAO),39.9894444,-75.2494444
+cluster_457,Paoli (PAO),40.0430556,-75.4827778
+cluster_458,"Pennbrook (LAN, WAR)",40.2302778,-75.2816667
+cluster_459,Philmont (WTR),40.1219444,-75.0436111
+cluster_460,"Penllyn (LAN, WAR)",40.17,-75.2441667
+cluster_461,Primos (MED),39.9216667,-75.2983333
+cluster_462,Prospect Park - Moore (WIL),39.8883333,-75.3088889
+cluster_463,Queen Lane (CHW),40.0233333,-75.1780556
+cluster_464,Radnor (PAO),40.0447222,-75.3588889
+cluster_465,Ridley Park (WIL),39.8805556,-75.3222222
+cluster_466,Rosemont (PAO),40.0277778,-75.3266667
+cluster_467,Roslyn (WAR),40.1208333,-75.1341667
+cluster_468,Rydal (WTR),40.1075,-75.1105556
+cluster_469,Secane (MED),39.9158333,-75.3097222
+cluster_470,Sedgwick (CHE),40.0627778,-75.1852778
+cluster_471,Sharon Hill (WIL),39.9044444,-75.2708333
+cluster_472,Somerton (WTR),40.1305556,-75.0119444
+cluster_473,Spring Mill (NOR),40.0741667,-75.2861111
+cluster_474,St. Davids (PAO),40.0438889,-75.3725
+cluster_475,Strafford (PAO),40.0494444,-75.4030556
+cluster_476,St. Martins (CHW),40.0658333,-75.2044444
+cluster_477,Stenton (CHE),40.0605556,-75.1786111
+cluster_478,Swarthmore (MED),39.9022222,-75.3508333
+cluster_479,Tacony (TRE),40.0233333,-75.0388889
+cluster_480,Thorndale (PAO),39.9927778,-75.7636111
+cluster_481,Torresdale (TRE),40.0544444,-74.9844444
+cluster_482,Trenton (TRE),40.2177778,-74.755
+cluster_483,Trevose (WTR),40.1402778,-74.9825
+cluster_484,Tulpehocken (CHW),40.0352778,-75.1869444
+cluster_485,Upsal (CHW),40.0425,-75.19
+cluster_486,Villanova (PAO),40.0383333,-75.3416667
+cluster_487,Washington Lane (CHE),40.0508333,-75.1713889
+cluster_488,Wallingford (MED),39.9036111,-75.3719444
+cluster_489,Wawa (MED),39.9138889,-75.46
+cluster_490,Wayne (PAO),40.0458333,-75.3866667
+cluster_491,Woodbourne (WTR),40.1925,-74.8891667
+cluster_492,Wilmington (WIL),39.7372222,-75.5511111
+cluster_493,Whitford (PAO),40.0147222,-75.6380556
+cluster_494,Wister (CHE),40.0361111,-75.1611111
+cluster_495,Willow Grove (WAR),40.1438889,-75.1141667
+cluster_496,Warminster (WAR),40.1952778,-75.0891667
+cluster_497,West Trenton (WTR),40.2577778,-74.8152778
+cluster_498,Wyndmoor (CHE),40.0733333,-75.1966667
+cluster_499,Wynnefield Avenue (CYN),39.99,-75.2255556
+cluster_500,Wynnewood (PAO),40.0027778,-75.2725
+cluster_501,Yardley (WTR),40.2352778,-74.8305556
+cluster_502,Lindenwold (PATCO),39.833809,-75.000325
+cluster_503,15-16th and Locust (PATCO),39.948635,-75.167792
+cluster_504,Ashland (PATCO),39.858698,-75.009198
+cluster_505,Woodcrest (PATCO),39.870157,-75.011247
+cluster_506,Haddonfield (PATCO),39.897609,-75.037141
+cluster_507,Westmont (PATCO),39.907086,-75.046545
+cluster_508,Collingswood (PATCO),39.913588,-75.064559
+cluster_509,Ferry Avenue (PATCO),39.922869,-75.092025
+cluster_510,Broadway / City Hall (PATCO) (2 stations),39.944148,-75.1201585

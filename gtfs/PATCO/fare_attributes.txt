@@ -1,0 +1,8 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+1,3.00,USD,1,0,PATCO,
+2,2.60,USD,1,0,PATCO,
+3,2.25,USD,1,0,PATCO,
+4,1.60,USD,1,0,PATCO,
+5,1.40,USD,1,0,PATCO,
+6,1.40,USD,1,0,PATCO,
+7,1.40,USD,1,0,PATCO,

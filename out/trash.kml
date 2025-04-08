@@ -1,0 +1,3582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+  <Placemark>
+    <name>Hunting Park / Roosevelt Blvd &amp; Broad St - FS (1, 53, 82, B1) (3 stations)</name>
+    <Point>
+      <coordinates>-75.14931533333333,40.01733133333334,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; 3rd St / Roosevelt Blvd &amp; 5th St / Roosevelt Blvd &amp; 5th St - FS / Roosevelt Blvd &amp; 6th St / Wyoming Av &amp; 3rd St / Wyoming Av &amp; 5th St / Wyoming Av &amp; 7th St - FS / Wyoming Av &amp; Fairhill St / Wyoming Av &amp; Roosevelt Blvd (1, 426, 433, 445, 447, 75, 82) (11 stations)</name>
+    <Point>
+      <coordinates>-75.13371827272728,40.02316472727273,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Cottman Av / Roosevelt Blvd &amp; Cottman Av - FS / Roosevelt Blvd &amp; Friendship St (1, 14, 20, 50, BLVDDIR) (3 stations)</name>
+    <Point>
+      <coordinates>-75.05507866666666,40.043995333333335,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Rhawn St / Roosevelt Blvd &amp; Solly Av - FS (1, 14, 20, 50, BLVDDIR) (2 stations)</name>
+    <Point>
+      <coordinates>-75.046012,40.05793,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Adams Av / Roosevelt Blvd &amp; Langdon St / Roosevelt Blvd &amp; Summerdale Av - FS / Roosevelt Blvd &amp; Tower Blvd - FS (1, 41, 426, 445, 447, 8, 82, K) (5 stations)</name>
+    <Point>
+      <coordinates>-75.09949639999999,40.027972399999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wissahickon / Wissahickon Transit Center (1, 124, 125, 35, 38, 61, 82, NOR) (2 stations)</name>
+    <Point>
+      <coordinates>-75.20875889999999,40.015781849999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>20th St &amp; Johnston St / Oregon Av &amp; 22nd St (17, 2, 63, 7) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1829495,39.9175305,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Hunting Park Av &amp; 19th St / Hunting Park Av &amp; Pulaski Av (2, 445, 447, 82) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1584005,40.0137395,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>33rd St &amp; Cecil B Moore Av Loop (3)</name>
+    <Point>
+      <coordinates>-75.188946,39.982394,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>2nd St / 5th St/Independence Hall / Arch St &amp; 3rd St / Chestnut St &amp; 3rd St / Front St &amp; Market St Loop (17, 21, 42, 44, 48, 5, L1) (7 stations)</name>
+    <Point>
+      <coordinates>-75.14556128571428,39.950192,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ogontz Av &amp; 68th Av / Ogontz Av &amp; 69th Av (6) (2 stations)</name>
+    <Point>
+      <coordinates>-75.149786,40.058730499999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ogontz Av &amp; 66th Av / Ogontz Av &amp; Stenton Av (6) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1500025,40.0532685,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Broad St &amp; Bigler St - FS / Broad St &amp; Oregon Av / Oregon / Oregon Av &amp; 16th St / Oregon Av &amp; Broad St - FS (4, 45, 63, 7, B1) (6 stations)</name>
+    <Point>
+      <coordinates>-75.17190566666666,39.916366000000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Pier 70 WalMart &amp; Home Depot / Tasker St &amp; Columbus Blvd (25, 29, 64, 7) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1430895,39.9263575,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; C St / Roosevelt Blvd &amp; C St - FS (1, 41, 426, 445, 447, 8, 82) (2 stations)</name>
+    <Point>
+      <coordinates>-75.116983,40.026589,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>13th St / 15th St/City Hall / 15th/City Hall / Market St &amp; 15th St / Walnut St &amp; Broad St - MBNS / Walnut-Locust (12, 124, 125, 17, 21, 31, 32, 33, 38, 42, 44, 48, 62, 9, B1, B1 OWL, B2, L1, L1 OWL, T1, T2, T3, T4, T5) (13 stations)</name>
+    <Point>
+      <coordinates>-75.16406884615384,39.951644692307696,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>20th St &amp; Walnut St / 22nd St / Chestnut St &amp; 21st St / Walnut St &amp; 20th St / Walnut St &amp; 22nd St / Walnut St &amp; 23rd St (12, 17, 21, 42, 9, T1, T2, T3, T4, T5) (7 stations)</name>
+    <Point>
+      <coordinates>-75.175954,39.95191185714286,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Cheltenham Av &amp; Ogontz Av Loop / Ogontz Av &amp; 79th Av (16, 6, 71, 81) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1585345,40.073659000000006,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>56th St &amp; Christian St / Angora / Baltimore Av &amp; 55th St / Baltimore Av &amp; 56th St / Baltimore Av &amp; 57th St / Baltimore Av &amp; 58th St (46, 63, MED, T2) (10 stations)</name>
+    <Point>
+      <coordinates>-75.23678921,39.94662802,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>58th St &amp; Kingsessing Av / 58th St &amp; Woodland Av / 60th St &amp; Kingsessing Av / Chester Av &amp; 57th St / Chester Av &amp; 58th St / Chester Av &amp; 59th St / Chester Av &amp; 60th St / Kingsessing Av &amp; 60th St / Woodland Av &amp; 57th St / Woodland Av &amp; 58th St / Woodland Av &amp; 60th St (409, 411, 63, T3, T4) (16 stations)</name>
+    <Point>
+      <coordinates>-75.227417875,39.9339299375,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>62nd St &amp; Buist Av / 63rd St &amp; Lindbergh Blvd / Elmwood Av &amp; 61st St / Elmwood Av &amp; 62nd St / Elmwood Av &amp; 63rd St / Elmwood Av &amp; 64th St / Elmwood Av &amp; 65th St (63, T5) (11 stations)</name>
+    <Point>
+      <coordinates>-75.22742381818182,39.92359981818182,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chelten Av &amp; Baynton St / Germantown (26, 41, CHE, K) (2 stations)</name>
+    <Point>
+      <coordinates>-75.17165785,40.038111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Arrott St &amp; Leiper St / Arrott Transit Center / Orthodox St &amp; Leiper St / Orthodox St &amp; Penn St / Orthodox St &amp; Pilling St / Oxford Av &amp; Frankford Av / Oxford Av &amp; Harrison St / Oxford Av &amp; Penn St / Penn St &amp; Arrott St / Penn St &amp; Foulkrod St / Penn St &amp; Overington St (41, 495, 59, 75, 89, K, L1) (14 stations)</name>
+    <Point>
+      <coordinates>-75.0854362857143,40.01758485714286,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wister St &amp; Chelten Av / Wister St &amp; Godfrey Av (51) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1578125,40.0503935,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton Av &amp; Mt Airy Av (51, 71) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1817415,40.0689055,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Plymouth Meeting Mall (150, 27, 51, 90, 95, 98)</name>
+    <Point>
+      <coordinates>-75.284034,40.117196,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chestnut Hill West / Germantown Av &amp; Bethlehem Pk - FS / Gravers / Gravers Ln &amp; Anderson St / Gravers Ln &amp; Germantown Av - FS (23, 51, 77, CHE, CHW) (5 stations)</name>
+    <Point>
+      <coordinates>-75.2050722,40.07664138,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton Av &amp; Washington Ln / Stenton Av &amp; Washington Ln - FS (18, 51) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1656305,40.059635,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Hunting Park Av &amp; 24th St / Hunting Park Av &amp; Fox St - FS (1, 445, 447, 56, 82) (2 stations)</name>
+    <Point>
+      <coordinates>-75.170002,40.0085875,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Allegheny Av &amp; 27th St / Allegheny Av &amp; Hunting Park Av (1, 48, 60, 82) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1761735,40.004605999999995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Comly St / Bustleton Av &amp; Comly St - FS / Bustleton Av &amp; Deveraux Av / Bustleton Av &amp; Devereux Av (14, 20, 58, 88) (4 stations)</name>
+    <Point>
+      <coordinates>-75.0729935,40.0313365,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Richmond St &amp; Allegheny Av / Richmond St &amp; Clearfield St / Richmond St &amp; Westmoreland St Loop (60, G1) (5 stations)</name>
+    <Point>
+      <coordinates>-75.102067,39.9827138,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Olney Av &amp; 16th St / Olney Av &amp; Broad St / Olney Av &amp; Broad St - FS / Olney Transit Center / Olney Transit Center - Rt 6 / Olney Transit Center - Rt L / Park Av &amp; Grange St (18, 22, 26, 51, 55, 6, B1, B2, B3) (10 stations)</name>
+    <Point>
+      <coordinates>-75.14517090000001,40.0391862,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Franklin Mills &amp; Liberty Bell Blvd / Philadelphia Mills &amp; Marshalls (129, 130, 20, 50, 67, 84) (2 stations)</name>
+    <Point>
+      <coordinates>-74.9651305,40.0870625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>33rd St / Chestnut St &amp; 32nd St / Drexel Station at 30th St / Walnut St &amp; 30th St - FS (21, 42, L1, T1, T2, T3, T4, T5) (8 stations)</name>
+    <Point>
+      <coordinates>-75.185510875,39.954340125,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chelten Av &amp; Chew Av / Chew Av &amp; Church Ln (18, 26, K) (3 stations)</name>
+    <Point>
+      <coordinates>-75.16248933333334,40.04398966666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>15th St &amp; Market St / 19th St / 19th St &amp; JFK Blvd / Chestnut St &amp; 17th St / JFK Blvd &amp; 17th St / JFK Blvd &amp; 19th St / Suburban Station (124, 125, 16, 17, 21, 27, 31, 32, 33, 38, 4, 42, 44, 446, 62, 78, 9, AIR, CHE, CHW, CYN, FOX, LAN, MED, NOR, PAO, T1, T2, T3, T4, T5, TRE, WAR, WIL, WTR) (8 stations)</name>
+    <Point>
+      <coordinates>-75.16947585,39.9534878625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Torresdale Av &amp; Cottman Av Loop / Torresdale Av &amp; Princeton Av / Torresdale Av &amp; Wellington St (28, 56, 70) (3 stations)</name>
+    <Point>
+      <coordinates>-75.03727433333334,40.029113,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>26th St &amp; Poplar St / 27th St &amp; Brown St / 27th St &amp; Poplar St / Girard Av &amp; 26th St / Girard Av &amp; 27th St / Girard Av &amp; 28th St / Girard Av &amp; 29th St / Poplar St &amp; 25th St / Poplar St &amp; Stillman St (32, 446, 448, 48, 7, G1) (13 stations)</name>
+    <Point>
+      <coordinates>-75.18044492307692,39.97344261538462,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>22nd St &amp; Cambria St / 22nd St &amp; Lehigh Av (33) (2 stations)</name>
+    <Point>
+      <coordinates>-75.167296,39.9972645,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>34th St / 36th St &amp; Lancaster Av / 36th St &amp; Market St / 36th St Trolley Portal Station / 36th-Sansom / Chestnut St &amp; 34th St / Chestnut St &amp; 37th St / Lancaster Av &amp; 36th St (21, L1, T1, T2, T3, T4, T5) (11 stations)</name>
+    <Point>
+      <coordinates>-75.19368881818183,39.95567736363636,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>5th St &amp; Market St - FS / 8th St &amp; Walnut St - FS / 8th and Market / 8th-Market / Chestnut St &amp; 6th St / Market St &amp; 5th St / Market St &amp; 8th St / Market St &amp; 8th St - MBNS / Walnut St &amp; 8th St (12, 17, 21, 33, 38, 42, 44, 47, 47M, 48, 62, 78, 9, B3, L1, L1 OWL, PATCO) (12 stations)</name>
+    <Point>
+      <coordinates>-75.15273466666666,39.95039875,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>33rd St &amp; Dauphin St Loop (39, 54, 7)</name>
+    <Point>
+      <coordinates>-75.18609,39.992001,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Spruce St &amp; 58th St / Spruce St &amp; 60th St - FS (42) (2 stations)</name>
+    <Point>
+      <coordinates>-75.2400285,39.956269500000005,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>52nd St &amp; Larchwood St / 52nd St &amp; Pine St - FS / 52nd St &amp; Spruce St - FS / 52nd St &amp; Walnut St / Spruce St &amp; 50th St / Spruce St &amp; 52nd St / Spruce St &amp; 54th St (42, 52) (8 stations)</name>
+    <Point>
+      <coordinates>-75.226062375,39.95445025,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>40th St Portal / 42nd St &amp; Baltimore Av / 42nd St &amp; Chester Av / Baltimore Av &amp; 42nd St / Baltimore Av &amp; 43rd St / Chester Av &amp; 42nd St / Spruce St &amp; 40th St - FS / Spruce St &amp; 41st St (30, 40, 42, LUCYGR, T2, T3, T4, T5) (10 stations)</name>
+    <Point>
+      <coordinates>-75.2059806,39.9499062,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>38th Parellel Pl &amp; Dock St - FS / Spruce St &amp; 2nd St / Spruce St &amp; 4th St (12, 21, 42) (3 stations)</name>
+    <Point>
+      <coordinates>-75.14567466666666,39.94482233333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>5th St &amp; 64th Av / 5th St &amp; Godfrey Av / 5th St &amp; Medary Av / Godfrey Av &amp; 7th St / Godfrey Loop - FS (47, 57, 70, K) (6 stations)</name>
+    <Point>
+      <coordinates>-75.12872066666667,40.04707,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>10th St &amp; Dauphin St / 12th St &amp; Susquehanna Av - FS / 8th St &amp; Susquehanna Av - FS (23, 47) (3 stations)</name>
+    <Point>
+      <coordinates>-75.149529,39.985894333333334,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>11th St / 12th St &amp; Walnut St / 8th St &amp; Market St / 9-10th and Locust / Jefferson Station / Market St &amp; 10th St / Market St &amp; 11th St - MBNS / Market St &amp; 12th St / Walnut St &amp; 10th St / Walnut St &amp; 12th St (12, 17, 21, 23, 33, 38, 42, 44, 45, 47, 47M, 48, 61, 62, 9, AIR, CHE, CHW, FOX, L1, L1 OWL, LAN, MED, NOR, PAO, PATCO, TRE, WAR, WIL, WTR) (11 stations)</name>
+    <Point>
+      <coordinates>-75.15813741818182,39.95057290909091,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Passyunk Av / 8th St &amp; Washington Av / 8th St &amp; Wharton St (47, 47M) (3 stations)</name>
+    <Point>
+      <coordinates>-75.15724133333333,39.93473633333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Snyder Av / 8th St &amp; Wolf St (47, 47M) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1600635,39.921963500000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>7th St &amp; Spring Garden St / 8th St &amp; Callowhill St (47, 47M, 61) (2 stations)</name>
+    <Point>
+      <coordinates>-75.150957,39.959860500000005,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>7th St &amp; Girard Av / 8th St &amp; Master St / Girard Av &amp; 5th St / Girard Av &amp; 7th St / Girard Av &amp; 8th St (47, G1) (7 stations)</name>
+    <Point>
+      <coordinates>-75.14768014285714,39.970764714285714,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>27th St &amp; Allegheny Av (48)</name>
+    <Point>
+      <coordinates>-75.173842,40.004026,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Market St (23, 45)</name>
+    <Point>
+      <coordinates>-75.15995,39.952187,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>10th St &amp; Bigler St / 8th St &amp; Oregon Av / Oregon Av &amp; 11th St (45, 47, 47M, 63, 7) (3 stations)</name>
+    <Point>
+      <coordinates>-75.164312,39.915113999999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>52nd St &amp; Girard Av - FS / 52nd St &amp; Master St - FS / Girard Av &amp; 51st St / Girard Av &amp; 52nd St / Girard Av &amp; 54th St (52, G1) (8 stations)</name>
+    <Point>
+      <coordinates>-75.226073875,39.971777,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>52nd St &amp; Haverford Av - FS / 52nd St &amp; Westminster Av - FS (52) (2 stations)</name>
+    <Point>
+      <coordinates>-75.2249185,39.966313,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>52nd St / 52nd St &amp; Market St - south (52, L1) (3 stations)</name>
+    <Point>
+      <coordinates>-75.22492066666666,39.960068666666665,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>52nd St &amp; Baltimore Av / 54th St &amp; Whitby Av - FS / Baltimore Av &amp; 51st St / Baltimore Av &amp; 52nd St / Baltimore Av &amp; 53rd St / Baltimore Av &amp; 54th St / Baltimore Av &amp; Broomall St (52, T2) (10 stations)</name>
+    <Point>
+      <coordinates>-75.2285476,39.947526800000006,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>54th St &amp; Chester Av / Chester Av &amp; 52nd St / Chester Av &amp; 53rd St / Chester Av &amp; 54th St / Chester Av &amp; 55th St / Chester Av &amp; 56th St (415, 52, T3) (12 stations)</name>
+    <Point>
+      <coordinates>-75.22290558333333,39.939694333333335,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Willow Grove Park Mall (22, 310, 311, 55, 95)</name>
+    <Point>
+      <coordinates>-75.122493,40.142263,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Erie Av &amp; Kensington Av - FS / Erie-Torresdale (56, L1) (3 stations)</name>
+    <Point>
+      <coordinates>-75.09652233333334,40.005870333333334,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Fern Rock T C / Fern Rock Transit Center (28, 57, 70, AIR, B1, B1 OWL, B2, B3, LAN, MED, WAR, WTR) (3 stations)</name>
+    <Point>
+      <coordinates>-75.13614973333334,40.04144853333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Transit Center / Frankford Transit Center - Main Dropoff / Frankford Transit Center - Rt 58 / Frankford Transit Center - Rt 66 / Frankford Transit Center-14-BLVDDIR-MFO (14, 19, 20, 24, 26, 3, 50, 58, 66, 67, 88, BLVDDIR, L1, L1 OWL) (6 stations)</name>
+    <Point>
+      <coordinates>-75.07769633333334,40.023185833333336,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bells Corner Loop / Bustleton Av &amp; Solly Av / Bustleton Av &amp; Strahle St - FS / Castor Av &amp; Arthur St / Castor Av &amp; Hoffnagle St / Castor Av &amp; Rhawn St / Castor Av &amp; Solly Av / Castor Av &amp; Stanwood St (58, 59) (12 stations)</name>
+    <Point>
+      <coordinates>-75.05351641666667,40.0641895,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chelten Av &amp; Germantown Av / Chelten Av &amp; Germantown Av - FS / Germantown Av &amp; Chelten Av (23, 26, 41, 438, 439, 65, K) (3 stations)</name>
+    <Point>
+      <coordinates>-75.174852,40.035634666666674,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Cottman Av &amp; Oxford Av / Cottman Av &amp; Rising Sun Av - FS / Cottman Av &amp; Rockwell Av / Cottman Av &amp; Tabor Av - FS / Oxford Av &amp; Verree Rd - MBNS / Ryers (18, 24, 495, 67, 70, 77, FOX) (7 stations)</name>
+    <Point>
+      <coordinates>-75.0840547,40.062293385714284,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Cottman Av &amp; Tabor Av / Cottman Av &amp; Whitaker Av / Cottman Av &amp; Whitaker Av - FS (67, 70, 77) (3 stations)</name>
+    <Point>
+      <coordinates>-75.07816100000001,40.058143,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Snyder Av &amp; 29th St (79)</name>
+    <Point>
+      <coordinates>-75.194395,39.92749,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>69th St Blvd &amp; Chestnut St / 69th St Transit Center / 69th St Transit Center North Terminal / 69th St Transit Center South Terminal (103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 120, 123, 21, 30, 65, 68, L1, L1 OWL, M1) (7 stations)</name>
+    <Point>
+      <coordinates>-75.25869228571428,39.96202985714286,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>69th St &amp; Marshall Rd / 69th St &amp; Walnut St (107, 108, 113, 68) (2 stations)</name>
+    <Point>
+      <coordinates>-75.258294,39.9553675,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Church Ln &amp; Baltimore Av / Church Ln &amp; Penn St - FS / Fernwood-Yeadon (108, 68, MED) (3 stations)</name>
+    <Point>
+      <coordinates>-75.25600643333333,39.9399314,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chester Av &amp; 65th St / Chester Av &amp; 65th St - FS / Chester Av &amp; Church Ln / Chester Av &amp; Duncan Av / Chester Av &amp; Stetser Av / Chester Av &amp; Yeadon Av / Church Ln &amp; Chester Av / Church Ln &amp; Rader Av - FS (108, 68, T3) (11 stations)</name>
+    <Point>
+      <coordinates>-75.24722281818181,39.92696390909091,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Erie / Erie Av &amp; 16th St / Germantown Av &amp; Butler St / Germantown Av &amp; Venango St (23, 53, 56, 71, 81, B1, B2, B3) (5 stations)</name>
+    <Point>
+      <coordinates>-75.1517456,40.009369199999995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Broad-Allegheny / Germantown Av &amp; Allegheny Av / Germantown Av &amp; Rising Sun Av (23, B1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.15083175000001,40.002062,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>10th St &amp; Cumberland St / Germantown Av &amp; Lehigh Av (23) (2 stations)</name>
+    <Point>
+      <coordinates>-75.14818700000001,39.99165,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Girard Av / 12th St &amp; Master St / Broad-Girard / Girard Av &amp; 11th St / Girard Av &amp; 12th St / Girard Av &amp; Broad St (23, B1, B2, B3, G1) (10 stations)</name>
+    <Point>
+      <coordinates>-75.15683349999999,39.971472399999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Federal St / 12th St &amp; Washington Av / Ellsworth-Federal (45, B1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.16524325,39.93626075,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Gorgas Ln / Germantown Av &amp; Westview St - FS (23) (2 stations)</name>
+    <Point>
+      <coordinates>-75.186476,40.054058,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>19th St &amp; Girard Av / Girard Av &amp; 17th St / Girard Av &amp; 19th St / Girard Av &amp; 20th St / Girard Av &amp; Corinthian Av / Girard Av &amp; Ridge Av (33, G1) (11 stations)</name>
+    <Point>
+      <coordinates>-75.16748190909091,39.97248781818182,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Cottman Av / Bustleton Av &amp; Saint Vincent St (58) (2 stations)</name>
+    <Point>
+      <coordinates>-75.06030899999999,40.04666,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>19th St &amp; Brown St (33)</name>
+    <Point>
+      <coordinates>-75.168285,39.968975,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>19th St &amp; Callowhill St / 20th St &amp; Ben Franklin Pkwy / 21st St &amp; Ben Franklin Pkwy (32, 33, 48, 49, 7) (3 stations)</name>
+    <Point>
+      <coordinates>-75.17191066666668,39.96001066666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>19th St &amp; Green St (33)</name>
+    <Point>
+      <coordinates>-75.169162,39.964871,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>22nd St &amp; York St (33)</name>
+    <Point>
+      <coordinates>-75.168618,39.991154,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>29th St &amp; Montgomery Av / 29th St &amp; Oxford St (48, 49, 7) (2 stations)</name>
+    <Point>
+      <coordinates>-75.181833,39.981727,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>21st St &amp; Arch St (48, 49, 7)</name>
+    <Point>
+      <coordinates>-75.174675,39.955931,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>22nd St &amp; Berks St / 22nd St &amp; Cecil B Moore Av (33) (2 stations)</name>
+    <Point>
+      <coordinates>-75.17066550000001,39.981952,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>22nd St &amp; Diamond St (33)</name>
+    <Point>
+      <coordinates>-75.169686,39.986479,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Allegheny Av &amp; 32nd St (1, 60, 82)</name>
+    <Point>
+      <coordinates>-75.181566,40.005335,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>35th St &amp; Allegheny Av Loop / Allegheny Av &amp; 35th St (1, 60, 82) (2 stations)</name>
+    <Point>
+      <coordinates>-75.186545,40.006009500000005,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Champlost Av &amp; 16th St / Champlost Av &amp; Broad St (6) (2 stations)</name>
+    <Point>
+      <coordinates>-75.145277,40.044587,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>City Av &amp; Berwick Rd - FS (63, 65)</name>
+    <Point>
+      <coordinates>-75.243889,39.993001,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Erie Av &amp; 20th St / Erie Av &amp; 22nd St / Hunting Park Av &amp; 22nd St (2, 33, 445, 447, 56, 71, 81, 82) (4 stations)</name>
+    <Point>
+      <coordinates>-75.1624955,40.0106915,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ogontz Av &amp; 74th Av / Ogontz Av &amp; 76h Av (6) (2 stations)</name>
+    <Point>
+      <coordinates>-75.156803,40.0685325,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Nedro Av &amp; 19th St / Ogontz Av &amp; Roselyn St (51, 6) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1511295,40.044716,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oregon Av &amp; 4th St - FS / Oregon Av &amp; 6th St (47, 47M, 57, 63, 7) (3 stations)</name>
+    <Point>
+      <coordinates>-75.15709233333332,39.91496766666666,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ridge Av &amp; Jefferson St (33, 61)</name>
+    <Point>
+      <coordinates>-75.169566,39.977367,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Nedro Av &amp; 21st St / Olney Av &amp; Penn Blvd - FS / Wister St &amp; Sprague St (18, 26, 51) (3 stations)</name>
+    <Point>
+      <coordinates>-75.15758633333333,40.044038666666665,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton Av &amp; Walnut Ln / Wister St &amp; Stenton Av (51) (2 stations)</name>
+    <Point>
+      <coordinates>-75.15904549999999,40.0557965,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton Av &amp; Upsal St (51)</name>
+    <Point>
+      <coordinates>-75.170652,40.062586,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton Av &amp; Sedgwick St / Stenton Av &amp; Vernon Rd (51) (2 stations)</name>
+    <Point>
+      <coordinates>-75.176536,40.0659765,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton Av &amp; Roumfort Rd (51)</name>
+    <Point>
+      <coordinates>-75.186387,40.071623,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton Av &amp; Mermaid Ln (51)</name>
+    <Point>
+      <coordinates>-75.190637,40.074157,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton Av &amp; Cresheim Valley Rd / Stenton Av &amp; Willow Grove Av (51) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1961215,40.0772555,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Evergreen Av &amp; Prospect Av / Stenton Av &amp; Gravers Ln (51) (2 stations)</name>
+    <Point>
+      <coordinates>-75.20181450000001,40.0799305,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Harvey St / Germantown Av &amp; High St / Germantown Av &amp; Tulpehocken St (23, 438, 439, 65) (3 stations)</name>
+    <Point>
+      <coordinates>-75.17838,40.04018833333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chelten Av &amp; Wayne Av / Chelten Avenue (26, 41, 438, 439, 65, CHW) (2 stations)</name>
+    <Point>
+      <coordinates>-75.17984115,40.030950000000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chelten Av &amp; Magnolia St (26, K)</name>
+    <Point>
+      <coordinates>-75.168753,40.041581,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Olney / Olney Av &amp; B St / Olney Av &amp; Front St (18, 26, 57, FOX) (5 stations)</name>
+    <Point>
+      <coordinates>-75.12016056,40.03469946,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Ashmead St / Germantown Av &amp; Seymour St (23) (2 stations)</name>
+    <Point>
+      <coordinates>-75.165231,40.0300915,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Courtland St &amp; 17th St / Courtland St &amp; 18th St / Courtland St &amp; 19th St / Courtland St &amp; Windrum Av / Germantown Av &amp; Dennie St / Germantown Av &amp; Windrim Av / Roberts Av &amp; Green St / Wayne Av &amp; Roberts Av / Wayne Junction / Windrim Av &amp; Germantown Av / Windrim Av &amp; Wayne Av / Windrum Av &amp; 20th St - MBNS / Windrum Av &amp; Germantown Av / Wingohocking St &amp; 17th St / Wingohocking St &amp; 18th St / Wingohocking St &amp; 19th St / Wingohocking St &amp; Uber St (2, 23, 75, AIR, CHE, FOX, LAN, MED, WAR) (17 stations)</name>
+    <Point>
+      <coordinates>-75.1572795882353,40.02257983529412,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Hunting Park Av / Germantown Av &amp; Juniata St / Hunting Park Av &amp; Germantown Av (1, 23, 445, 82) (3 stations)</name>
+    <Point>
+      <coordinates>-75.15440833333334,40.01664333333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chew Av &amp; Penn Blvd / Olney Av &amp; 20st St - MBFS / Olney Av &amp; 20th St - MBNS (18, 26) (3 stations)</name>
+    <Point>
+      <coordinates>-75.15702700000001,40.04080366666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Olney Av &amp; 18th St - FS / Olney Av &amp; 18th St - MBNS (18, 26) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1523215,40.0392345,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Olney Av &amp; 11th St / Olney Av &amp; Wagner Av (18, 26) (3 stations)</name>
+    <Point>
+      <coordinates>-75.13852033333333,40.03765933333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Olney Av &amp; 6th St (18, 26) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1324805,40.036694,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Olney Av &amp; 3rd St (18, 26)</name>
+    <Point>
+      <coordinates>-75.127748,40.036027,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Unruh Av / Roosevelt Blvd &amp; Hellerman St (1, 14, 20, 26, 433, 58) (2 stations)</name>
+    <Point>
+      <coordinates>-75.0672835,40.037688,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Indiana Av (23)</name>
+    <Point>
+      <coordinates>-75.146899,39.997774,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Montgomery Av / 12th St &amp; Norris St / Temple University (23, AIR, CHE, CHW, FOX, LAN, MED, NOR, PAO, TRE, WAR, WIL, WTR) (3 stations)</name>
+    <Point>
+      <coordinates>-75.15217313333333,39.98136496666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Oxford St / Cecil B. Moore (23, B1) (3 stations)</name>
+    <Point>
+      <coordinates>-75.15676533333334,39.97808033333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Parrish St / 12th St &amp; Wallace St / Fairmount (23, B1, B3) (4 stations)</name>
+    <Point>
+      <coordinates>-75.15861100000001,39.96673625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Noble St / 12th St &amp; Ridge Av / Broad-Spring Garden (23, B1, B2) (4 stations)</name>
+    <Point>
+      <coordinates>-75.159687,39.9617675,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Race St / Race-Vine (23, 45, B1, B2) (3 stations)</name>
+    <Point>
+      <coordinates>-75.16143333333333,39.956646666666664,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>5th St &amp; Cumberland St / 6th St &amp; Dauphin St / Dauphin St &amp; 6th St (39, 47) (3 stations)</name>
+    <Point>
+      <coordinates>-75.142675,39.987158,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>6th St &amp; Cambria St / 6th St &amp; Lehigh Av (47) (2 stations)</name>
+    <Point>
+      <coordinates>-75.141915,39.993992,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Montgomery Av / 8th St &amp; Norris St / Berks St &amp; Germantown Av (3, 47) (3 stations)</name>
+    <Point>
+      <coordinates>-75.14639233333334,39.98035133333334,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Oxford St (47)</name>
+    <Point>
+      <coordinates>-75.148779,39.976171,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Brown St / 8th St &amp; Poplar St (47) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1508655,39.966822,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Cherry St / Chinatown / Franklin Square (47, 47M, 61, B3, PATCO) (4 stations)</name>
+    <Point>
+      <coordinates>-75.15238819939236,39.95489129698931,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Lombard St / 8th St &amp; Spruce St (12, 47, 47M) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1550785,39.944671,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Fitzwater St (47, 47M)</name>
+    <Point>
+      <coordinates>-75.155955,39.940657,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Dickinson St / 8th St &amp; Morris St (47, 47M) (2 stations)</name>
+    <Point>
+      <coordinates>-75.158466,39.929283,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Porter St (47, 47M)</name>
+    <Point>
+      <coordinates>-75.160869,39.91823,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12-13th and Locust / 12th St &amp; Lombard St / 12th St &amp; Spruce St / Lombard-South (45, B1, PATCO) (5 stations)</name>
+    <Point>
+      <coordinates>-75.163185,39.9453984,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Fitzwater St (45)</name>
+    <Point>
+      <coordinates>-75.162258,39.941447,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Reed St / 12th St &amp; Tasker St / Tasker-Morris (45, B1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.166492,39.93056525,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; McKean St / 12th St &amp; Moore St (45) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1655655,39.926460000000006,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>12th St &amp; Jackson St / 12th St &amp; Ritner St (45) (2 stations)</name>
+    <Point>
+      <coordinates>-75.166634,39.921536,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Old York Rd &amp; 65th Av (22, 55, K)</name>
+    <Point>
+      <coordinates>-75.142663,40.052279,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Abbottsford Av (23)</name>
+    <Point>
+      <coordinates>-75.160415,40.026641,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Coulter St (23)</name>
+    <Point>
+      <coordinates>-75.170451,40.033141,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Cliveden St / Germantown Av &amp; Duval St (23) (2 stations)</name>
+    <Point>
+      <coordinates>-75.182117,40.045847,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Sharpnack St (23)</name>
+    <Point>
+      <coordinates>-75.183826,40.049252,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Snyder Av &amp; 3rd St (57, 79)</name>
+    <Point>
+      <coordinates>-75.150963,39.922028,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Allens Ln / Germantown Av &amp; Mt Pleasant Av (23) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1904955,40.059774000000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; McPherson St / Mount Airy (23, CHE) (2 stations)</name>
+    <Point>
+      <coordinates>-75.19244265,40.064811899999995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Germantown Av &amp; Moreland Av / Germantown Av &amp; Willow Grove Av (23) (2 stations)</name>
+    <Point>
+      <coordinates>-75.199641,40.069666999999995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Torresdale Av &amp; Adams Av - FS (56)</name>
+    <Point>
+      <coordinates>-75.087974,40.006651,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>American St &amp; Dauphin St (57, 89)</name>
+    <Point>
+      <coordinates>-75.137389,39.985391,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lehigh Av &amp; 2nd St (54, 57)</name>
+    <Point>
+      <coordinates>-75.135144,39.991374,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Cottman Av &amp; Algon St (18, 70, 77)</name>
+    <Point>
+      <coordinates>-75.073137,40.055341,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Cottman Av &amp; Ryers Av (24, 70, 77) (2 stations)</name>
+    <Point>
+      <coordinates>-75.0895715,40.06483,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Godfrey Av &amp; 10th St (57, 70)</name>
+    <Point>
+      <coordinates>-75.135675,40.046265,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Torresdale Av &amp; Comly St (56)</name>
+    <Point>
+      <coordinates>-75.059342,40.01753,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Torresdale Av &amp; Hellerman St / Torresdale Av &amp; Robbins Av (56) (2 stations)</name>
+    <Point>
+      <coordinates>-75.051917,40.021367999999995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Torresdale Av &amp; Longshore Av / Torresdale Av &amp; Unruh Av (56) (2 stations)</name>
+    <Point>
+      <coordinates>-75.04494700000001,40.024979,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bridesburg / Torresdale Av &amp; Pratt St (25, 56, TRE) (2 stations)</name>
+    <Point>
+      <coordinates>-75.0707666,40.0117448,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Erie Av &amp; J St / Erie Av &amp; L St (56) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1052215,40.005584999999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Torresdale Av &amp; Margaret St (25, 56)</name>
+    <Point>
+      <coordinates>-75.07696,40.011449,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Erie Av &amp; F St - MBFS / Erie Av &amp; G St (56, 89) (2 stations)</name>
+    <Point>
+      <coordinates>-75.115377,40.006155500000006,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Erie Av &amp; 18th St (2, 56, 71, 81) (2 stations)</name>
+    <Point>
+      <coordinates>-75.15758149999999,40.0100605,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>5th St &amp; Clearfield St (47)</name>
+    <Point>
+      <coordinates>-75.138803,39.998044,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Fairfield Av / Walnut St / West Chester Pk &amp; Brief Av (104, 110, 111, 112, 120, 123, 126, D1, D2) (5 stations)</name>
+    <Point>
+      <coordinates>-75.2647006,39.960427800000005,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>West Chester Pk &amp; Golf Rd (104, 110, 111, 112, 120, 123, 126)</name>
+    <Point>
+      <coordinates>-75.2678,39.96368,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Front St &amp; Coral St / Front St &amp; Dauphin St / York-Dauphin (3, L1, L1 OWL) (4 stations)</name>
+    <Point>
+      <coordinates>-75.132234,39.9842855,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Kensington Av &amp; Somerset St / Somerset (3, 54, L1, L1 OWL) (3 stations)</name>
+    <Point>
+      <coordinates>-75.12252466666666,39.99141533333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Grace Rd &amp; Copley Rd - FS / Long Ln &amp; Guilford Rd (108, 68) (2 stations)</name>
+    <Point>
+      <coordinates>-75.262336,39.9515175,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Long Ln &amp; Atlantic Av - FS / Long Ln &amp; Lewis Av (108, 68) (2 stations)</name>
+    <Point>
+      <coordinates>-75.2587465,39.946434499999995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Church Ln &amp; Baily Rd / Church Ln &amp; Whitby Av (108, 68) (2 stations)</name>
+    <Point>
+      <coordinates>-75.252415,39.935381500000005,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Church Ln &amp; Parmley Av (108, 68)</name>
+    <Point>
+      <coordinates>-75.249477,39.932169,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>10th St &amp; Main St / 10th St &amp; Ridge Av / 10th St &amp; Summit St / 9th St &amp; Main St - MBFS / 9th St &amp; Ridge Av / 9th St &amp; Summit St / Darby Transit Center / Darby Transit Center - bus / Main St &amp; 12th St / Main St &amp; Mill St / Main St &amp; Powell Av / SEPTA Private Way &amp; MacDade Blvd (113, 114, 115, T3, T4) (12 stations)</name>
+    <Point>
+      <coordinates>-75.26180741666667,39.91999741666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>City Av &amp; 54th St (52, 65)</name>
+    <Point>
+      <coordinates>-75.235383,39.996969,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Fox Chase / Fox Chase Loop (18, 490, FOX) (2 stations)</name>
+    <Point>
+      <coordinates>-75.08442815000001,40.07652145,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Grant Av - FS (1, 14, BLVDDIR)</name>
+    <Point>
+      <coordinates>-75.028078,40.080991,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>8th St &amp; Mifflin St (47)</name>
+    <Point>
+      <coordinates>-75.159283,39.925599,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>49th St &amp; Paschall Av / 49th St &amp; Woodland Av / Grays Av &amp; 51st St / Woodland Av &amp; 48th St / Woodland Av &amp; 49th St / Woodland Av &amp; 50th St / Woodland Av &amp; 51st St / Woodland Av &amp; 52nd St (12, 52, 64, T4, T5) (15 stations)</name>
+    <Point>
+      <coordinates>-75.21327966666666,39.939697466666665,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>20th St &amp; Lombard St (17)</name>
+    <Point>
+      <coordinates>-75.17477,39.945739,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>37th-Spruce / Spruce St &amp; 38th St / University Av &amp; Baltimore Av - MBFS (30, 40, 42, LUCYGR, T2, T3, T4, T5) (4 stations)</name>
+    <Point>
+      <coordinates>-75.19819925,39.9505255,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>34th St &amp; Convention Av / Civic Center Blvd &amp; Osler Cir / Health Sciences Dr &amp; Civic Ctr Blvd - MBFS / Penn Medicine Station (30, 42, 49, AIR, LAN, LUCYGO, LUCYGR, MED, WIL) (4 stations)</name>
+    <Point>
+      <coordinates>-75.1936862,39.947547650000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>33rd St &amp; Locust St / Civic Center Blvd &amp; Convention Av - FS (30, 42, 49, LUCYGR) (2 stations)</name>
+    <Point>
+      <coordinates>-75.191587,39.9501805,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Gray 30th Street / Market St &amp; 24th St - MBFS (124, 125, 31, 44, 49, 62, AIR, CHE, CHW, CYN, FOX, LAN, MED, NOR, PAO, TRE, WAR, WIL, WTR) (2 stations)</name>
+    <Point>
+      <coordinates>-75.18052334999999,39.95554935,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>52nd St &amp; Lancaster Av - FS / Lancaster Av &amp; 52nd St / Lancaster Av &amp; Bible Way / Lansdowne Av &amp; 54th St / Lansdowne Av &amp; 55th St / Lansdowne Av &amp; Lancaster Av (52, T1) (7 stations)</name>
+    <Point>
+      <coordinates>-75.22835914285714,39.97706028571429,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>54th St &amp; Florence Av (52)</name>
+    <Point>
+      <coordinates>-75.226945,39.942969,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Red Lion Rd / Roosevelt Blvd &amp; Red Lion Rd - FS (1, 14, 450, BLVDDIR) (2 stations)</name>
+    <Point>
+      <coordinates>-75.0155065,40.094508,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>56th St &amp; Larchwood Av / Spruce St &amp; 56th St (42, 63) (2 stations)</name>
+    <Point>
+      <coordinates>-75.234335,39.9543245,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Spruce St &amp; 48th St (42)</name>
+    <Point>
+      <coordinates>-75.218247,39.953566,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Baltimore Av &amp; 43rd St / Baltimore Av &amp; 44th St / Baltimore Av &amp; 45th St / Baltimore Av &amp; 46th St / Spruce St &amp; 43rd St / Spruce St &amp; 45th St (42, T2) (7 stations)</name>
+    <Point>
+      <coordinates>-75.21157857142857,39.95019242857143,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Cheltenham Av / Bustleton Av &amp; Cheltenham Av - FS / Cheltenham Av &amp; Frankford Av - MBNS / Frankford Av &amp; Cheltenham Av / Frankford Av &amp; Cheltenham Av - MBFS (14, 20, 26, 58, 66, 88) (5 stations)</name>
+    <Point>
+      <coordinates>-75.073818,40.026298600000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; 9th St / Wyoming Av &amp; 10th St / Wyoming Av &amp; 11th St / Wyoming Av &amp; 12th St / Wyoming Av &amp; 13th St / Wyoming Av &amp; 9th St (1, 445, 447, 75, 82) (9 stations)</name>
+    <Point>
+      <coordinates>-75.14174855555557,40.02344166666666,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Mascher St / Roosevelt Blvd &amp; Rising Sun - FS (1, 426, 433, 445, 447, 82) (2 stations)</name>
+    <Point>
+      <coordinates>-75.12382199999999,40.0252405,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Welsh Rd (1, 14, BLVDDIR)</name>
+    <Point>
+      <coordinates>-75.034919,40.07389,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Franklin Mills &amp; Design Center Dr (129, 130, 20, 50, 67, 84)</name>
+    <Point>
+      <coordinates>-74.965006,40.090806,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oak Ln &amp; Brookfield Rd (70)</name>
+    <Point>
+      <coordinates>-75.11234,40.060837,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ashbourne Rd &amp; Croyden Rd (70)</name>
+    <Point>
+      <coordinates>-75.105123,40.061319,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ashbourne Rd &amp; Oak Hill Dr (70)</name>
+    <Point>
+      <coordinates>-75.100035,40.061903,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Central Av &amp; Ashbourne Rd - FS / Central Av &amp; Myrtle Av / Cheltenham (70, FOX) (3 stations)</name>
+    <Point>
+      <coordinates>-75.0940116,40.05998653333334,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Old Lincoln Hwy - MBFS (1, 14, BLVDDIR)</name>
+    <Point>
+      <coordinates>-74.979135,40.120606,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Southampton - FS (1, 14, BLVDDIR)</name>
+    <Point>
+      <coordinates>-74.988514,40.11416,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oak Ln Rd &amp; Parkview Rd (70)</name>
+    <Point>
+      <coordinates>-75.117306,40.05844,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oak Ln Rd &amp; New 2nd St (70)</name>
+    <Point>
+      <coordinates>-75.121335,40.056468,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Napfle St / Roosevelt Blvd &amp; Borbeck Av / Roosevelt Blvd &amp; Napfle St (1, 14, 20, 58) (3 stations)</name>
+    <Point>
+      <coordinates>-75.05191133333334,40.053423,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Shelmire Av (1, 14, 20)</name>
+    <Point>
+      <coordinates>-75.051707,40.048817,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Tyson Av (1, 14, 20)</name>
+    <Point>
+      <coordinates>-75.05901,40.040699,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; Unruh Av (1, 14, 20)</name>
+    <Point>
+      <coordinates>-75.062953,40.037256,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Tyson Av - FS (58)</name>
+    <Point>
+      <coordinates>-75.062959,40.042995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Rockhill Rd &amp; Neshaminy Blvd - MBNS / Rockhill Rd &amp; Neshaminy Rd - MBFS (128, 130, 14, 58, BLVDDIR) (2 stations)</name>
+    <Point>
+      <coordinates>-74.9571075,40.136610000000005,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Tolbut St / Bustleton Av &amp; Tustin St (58) (2 stations)</name>
+    <Point>
+      <coordinates>-75.048371,40.072432,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Borbeck Av / Bustleton Av &amp; Rhawn St (58) (2 stations)</name>
+    <Point>
+      <coordinates>-75.0527515,40.058129,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bustleton Av &amp; Shelmire Av (58)</name>
+    <Point>
+      <coordinates>-75.057159,40.05102,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roosevelt Blvd &amp; F St / Roosevelt Blvd &amp; Garland St / Roosevelt Blvd &amp; Whitaker Av (41, 426, 445, 447, 82) (4 stations)</name>
+    <Point>
+      <coordinates>-75.10811775,40.0285055,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oxford Av &amp; Bridge St / Oxford Av &amp; Pratt St / Oxford Av &amp; Roosevelt Blvd / Oxford Av &amp; Sanger St / Pratt St &amp; Castor Av / Pratt St &amp; Roosevelt Blvd / Pratt St &amp; Roosevelt Blvd - FS (24, 426, 445, 447, 495, 59, 8, 82) (10 stations)</name>
+    <Point>
+      <coordinates>-75.0862071,40.0287205,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Snyder Av &amp; Dilworth St - MBNS (25, 63, 79)</name>
+    <Point>
+      <coordinates>-75.144097,39.92104,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>58th St &amp; Hoffman Av / 58th St &amp; Whitby Av (409, 63) (2 stations)</name>
+    <Point>
+      <coordinates>-75.236593,39.9426765,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>58th St &amp; Florence Av / 58th St &amp; Springfield Av (409, 63) (2 stations)</name>
+    <Point>
+      <coordinates>-75.231192,39.937924499999994,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>62nd St &amp; Grays Av / 62nd St &amp; Woodland Av - FS / Kingsessing Av &amp; 62nd St / Woodland Av &amp; 61st St / Woodland Av &amp; 62nd St / Woodland Av &amp; 63rd St / Woodland Av &amp; 64th St / Woodland Av &amp; 65th St (409, 411, 415, 63, T3, T4) (12 stations)</name>
+    <Point>
+      <coordinates>-75.2317455,39.927752416666664,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>63rd St &amp; Passyunk Av - 2 (63)</name>
+    <Point>
+      <coordinates>-75.216419,39.917257,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oregon Av &amp; 24th St - FS (63, 7)</name>
+    <Point>
+      <coordinates>-75.18826,39.919464,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oregon Av &amp; 18th St (63, 7)</name>
+    <Point>
+      <coordinates>-75.177844,39.917552,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Berks St &amp; 3rd St (3)</name>
+    <Point>
+      <coordinates>-75.140119,39.979453,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Berks / Berks St &amp; Front St (3, L1) (3 stations)</name>
+    <Point>
+      <coordinates>-75.133562,39.978614,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Erie Av &amp; Roberto Clemente Walk (428, 56, 57)</name>
+    <Point>
+      <coordinates>-75.130021,40.00716,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>29th St &amp; Ridge Av (48, 49, 7)</name>
+    <Point>
+      <coordinates>-75.180768,39.986654,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>6th St &amp; Welsh St - Chester Tran Ctr / Chester (109, 114, 118, WIL) (2 stations)</name>
+    <Point>
+      <coordinates>-75.3601475,39.8496751,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>63rd St &amp; Columbia Av / 63rd St &amp; Lebanon Av / 63rd-Malvern / Malvern Av &amp; 63rd St (46, 63, T1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.246522,39.982257249999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Packer Av &amp; Broad St (45)</name>
+    <Point>
+      <coordinates>-75.171905,39.911676,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>10th St &amp; Packer Av (45)</name>
+    <Point>
+      <coordinates>-75.165723,39.91086,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Kensington-Allegheny (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.11346950000001,39.9965025,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>NRG Station (B1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.173857,39.9054285,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 49th St / Girard Av &amp; Lancaster Av / Girard Av &amp; Merion Av / Lancaster Av &amp; 47th St / Lancaster Av &amp; 48th St / Lancaster Av &amp; 49th St / Lancaster Av &amp; Girard Av / Lancaster Av &amp; Thompson St (G1, T1) (10 stations)</name>
+    <Point>
+      <coordinates>-75.2177207,39.9727307,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>40th St / 40th St &amp; Filbert St / 40th-Market (30, 40, L1, T1, T2, T3, T4, T5) (4 stations)</name>
+    <Point>
+      <coordinates>-75.20196200000001,39.95737325,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Main St &amp; 2nd St / Main St &amp; 3rd St / Main St &amp; Front St / Woodland Av &amp; 72nd St / Woodland Av &amp; Island Av (T2, T4) (9 stations)</name>
+    <Point>
+      <coordinates>-75.24799111111112,39.91715066666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>65th St &amp; Chester Av / 65th St &amp; Chester St / 65th St &amp; Kingsessing Av / Kingsessing Av &amp; 65th St / Mt. Moriah / Woodland Av &amp; 65th St / Woodland Av &amp; 66th St / Woodland Av &amp; 67th St (T3, T4) (9 stations)</name>
+    <Point>
+      <coordinates>-75.23654222222223,39.92728544444444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>49th Street / Chester Av &amp; 47th St / Chester Av &amp; 48th St / Chester Av &amp; 49th St / Chester Av &amp; 51st St (MED, T3) (9 stations)</name>
+    <Point>
+      <coordinates>-75.21627196666667,39.944321566666666,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>10th St &amp; Mulberry Av / 10th St &amp; Wycombe Av / 9th St &amp; Cedar Av / Chester Av &amp; Alfred Av / Chester Av &amp; Cedar Av / Chester Av &amp; Stetser Av / Yeadon (T3) (9 stations)</name>
+    <Point>
+      <coordinates>-75.25466733333333,39.92379766666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Delaware Av - FS / Frankford Av &amp; Delaware Av Loop / Frankford Av &amp; Girard Av / Frankford Av &amp; Girard Av - FS / Frankford Av &amp; Richmond St / Front-Girard / Girard Av &amp; 2nd St / Girard Av &amp; Frankford Av- FS / Girard Av &amp; Front St (25, 5, G1, L1) (13 stations)</name>
+    <Point>
+      <coordinates>-75.13573076923078,39.96792507692308,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 39th St / Girard Av &amp; 40th St / Girard Av &amp; 40th St - FS / Girard Av &amp; 41st St / Girard Av &amp; 42nd St (G1) (8 stations)</name>
+    <Point>
+      <coordinates>-75.205390875,39.973999875000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 57th St / Girard Av &amp; 59th St / Girard Av &amp; 60th St / Girard Av &amp; 61st St / Haverford Av &amp; 61st St (30, G1) (8 stations)</name>
+    <Point>
+      <coordinates>-75.23794925,39.9702505,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>61st-Baltimore / Baltimore Av &amp; 59th St / Baltimore Av &amp; 60th St (46, 63, T2) (5 stations)</name>
+    <Point>
+      <coordinates>-75.243738,39.9446676,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Baltimore Av &amp; 47th St / Baltimore Av &amp; 48th St / Baltimore Av &amp; 49th St / Baltimore Av &amp; 50th St / Baltimore Av &amp; Florence Av (T2) (8 stations)</name>
+    <Point>
+      <coordinates>-75.220236375,39.94828625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>73rd St &amp; Elmwood Av / Elmwood Av &amp; 71st St / Elmwood Av &amp; 72nd St / Elmwood Av &amp; 73rd St / Elmwood Av &amp; Island Av / Elmwood Av &amp; Island Av - MBFS / Elmwood Loop / Island Av &amp; Buist Av - 2 bus / Island Av &amp; Buist Av - FS (415, 68, T2, T5, T5 Bus) (12 stations)</name>
+    <Point>
+      <coordinates>-75.24152933333333,39.91404058333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; Richmond St / Richmond St &amp; Cumberland St / Richmond St &amp; Girard Av / Richmond St &amp; Huntingdon St (G1) (6 stations)</name>
+    <Point>
+      <coordinates>-75.11781016666667,39.97426816666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Devereaux Av / Castor Av &amp; Hellerman St / Castor Av &amp; Levick St / Castor Av &amp; Robbins Av (59) (8 stations)</name>
+    <Point>
+      <coordinates>-75.078031125,40.0388175,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Bleigh Av / Castor Av &amp; Cottman Av / Castor Av &amp; Elgin Av / Castor Av &amp; Saint Vincent St (433, 59) (6 stations)</name>
+    <Point>
+      <coordinates>-75.06609,40.051231666666666,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>City Line Loop / Frankford Av &amp; Lyman Dr / Frankford Av &amp; Lyman Dr - FS / Frankford Av &amp; Morrell Av (129, 130, 133, 450, 66) (5 stations)</name>
+    <Point>
+      <coordinates>-74.9838246,40.0640104,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Decatur St / Frankford Av &amp; Hartel Av / Frankford Av &amp; Lansing St - FS / Frankford Av &amp; Rhawn St - FS / Frankford Av &amp; Welsh Rd (484, 66) (8 stations)</name>
+    <Point>
+      <coordinates>-75.0288065,40.041161625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Cottman Av / Frankford Av &amp; Cottman Av - FS / Frankford Av &amp; Princeton Av / Frankford Av &amp; Princeton Av - FS / Frankford Av &amp; Wellington St (66) (7 stations)</name>
+    <Point>
+      <coordinates>-75.04239942857143,40.03597042857143,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Harbison Av / Frankford Av &amp; Hawthorne St / Frankford Av &amp; Hellerman St / Frankford Av &amp; Levick St / Frankford Av &amp; Robbins Av (66) (8 stations)</name>
+    <Point>
+      <coordinates>-75.059103125,40.028330625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Knorr St / Frankford Av &amp; Longshore Av / Frankford Av &amp; Longshore Av - FS / Frankford Av &amp; Magee Av / Frankford Av &amp; Magee St / Frankford Av &amp; Unruh Av / Frankford Av &amp; Unruh St (66) (8 stations)</name>
+    <Point>
+      <coordinates>-75.051966375,40.031890625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>15th St &amp; Belfield Av / 15th St &amp; Courtland St / 16th St &amp; Courtland St / Wingohocking St &amp; 15th St / Wyoming / Wyoming Av &amp; 12th St / Wyoming Av &amp; 13th St / Wyoming Av &amp; 15th St / Wyoming Av &amp; 16th St / Wyoming Av &amp; Broad St / Wyoming Av &amp; Broad St - FS / Wyoming Av &amp; Old York Rd (75, B1) (15 stations)</name>
+    <Point>
+      <coordinates>-75.14836013333334,40.024211666666666,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Orthodox Av - MBNS / Castor Av &amp; Orthodox St / Castor Av &amp; Orthodox St - MBNS / Castor Av &amp; Wyoming Av / Orthodox St &amp; Adams Av / Orthodox St &amp; Large St / Wyoming Av &amp; Castor Av - MBNS / Wyoming Av &amp; Ramona Av - MBNS (41, 495, 75, 89) (8 stations)</name>
+    <Point>
+      <coordinates>-75.096347125,40.019117125,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Battersby St / Frankford Av &amp; Benner St / Frankford Av &amp; Comly St (26, 66) (4 stations)</name>
+    <Point>
+      <coordinates>-75.06653725000001,40.026844,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Arendell Av / Frankford Av &amp; Ellie Dr / Frankford Av &amp; Ellie Dr - FS at Gregg St Loop / Frankford Av &amp; Gregg St Loop / Frankford Av &amp; Linden Av / Frankford Av &amp; Pearson Av / Frankford Av &amp; Pearson Av - FS (450, 462, 66, 70, 88) (8 stations)</name>
+    <Point>
+      <coordinates>-75.004102,40.05515,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Logan (B1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1465325,40.0306175,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Susquehanna-Dauphin (B1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.156068,39.9870265,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Snyder (B1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.169705,39.9243755,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bridgeport (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.3481415,40.104955000000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Gulph Mills (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.34233699999999,40.0708605,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stadium / Villanova - NHSL (M1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.342386,40.03336075,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roberts Rd (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.3302875,40.021401,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Beechwood-Brookline (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.291466,39.9865165,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Parkview (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.2748155,39.968990500000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Township Line Rd (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.2815775,39.9747955,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Penfield (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.2839865,39.981006,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wynnewood Rd (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.29822899999999,39.993387,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ardmore Av (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.309449,39.9999,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Haverford - NHSL (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.3151405,40.009799,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bryn Mawr - NHSL (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.323395,40.018044,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Garrett Hill (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.336408,40.027961000000005,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Radnor - NHSL (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.353617,40.042079,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Matsonford (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.339455,40.0581885,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Hughes Park (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.34912650000001,40.081526,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>DeKalb St (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.35206550000001,40.0987585,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Avon Rd / Beverly Blvd / Hilltop Rd (D1, D2) (5 stations)</name>
+    <Point>
+      <coordinates>-75.27162080000001,39.9565116,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Congress Av / Lansdowne Av (D1, D2) (4 stations)</name>
+    <Point>
+      <coordinates>-75.28073225,39.952344,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Drexel Hill Junction / Drexel Park / Irvington Rd (D1, D2) (5 stations)</name>
+    <Point>
+      <coordinates>-75.2900836,39.948268999999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Leamy Av / Woodland Av (D1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.33850075,39.92548225,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Springfield Mall (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.3489385,39.9181445,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Beatty Rd / Manchester Av / Providence Rd (D1) (6 stations)</name>
+    <Point>
+      <coordinates>-75.38012416666668,39.9166195,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Jackson St / Olive St / Orange St/Media / Veterans Sq (D1) (8 stations)</name>
+    <Point>
+      <coordinates>-75.39162412499999,39.918219125,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Scenic Rd (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.325996,39.940743,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Baltimore Av / Clifton-Aldan / Penn St / Springfield Rd (D2, MED) (7 stations)</name>
+    <Point>
+      <coordinates>-75.29218025714285,39.928768528571425,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bartram Av / Magnolia Av / North St (D2) (6 stations)</name>
+    <Point>
+      <coordinates>-75.28551116666667,39.917223,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Andrews Av / MacDade Blvd (D2) (4 stations)</name>
+    <Point>
+      <coordinates>-75.2814085,39.9109585,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>North Broad / North Philadelphia (B1, B3, LAN, MED, NOR) (3 stations)</name>
+    <Point>
+      <coordinates>-75.15435496666667,39.99336706666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Millbourne (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.252243,39.964355499999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>63rd St (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.246767,39.96275,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>60th St (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.240757,39.961991499999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>56th St (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.232853,39.961002,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>46th St (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.214028,39.958655,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Spring Garden (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.140402,39.960542000000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Huntingdon (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.127303,39.988834499999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Tioga (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1064685,40.000322499999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Church (L1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.0887045,40.010919,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Benner St / Castor Av &amp; Comly St / Castor Av &amp; Roosevelt Blvd / Castor Av &amp; Van Kirk St (59) (7 stations)</name>
+    <Point>
+      <coordinates>-75.08247385714286,40.03420671428571,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Knorr St / Castor Av &amp; Longshore Av / Castor Av &amp; Longshore Av - FS / Castor Av &amp; Tyson Av / Castor Av &amp; Unruh Av (59) (8 stations)</name>
+    <Point>
+      <coordinates>-75.0720905,40.044970375,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Princeton Av (59) (2 stations)</name>
+    <Point>
+      <coordinates>-75.0690755,40.048104499999994,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Fitler St / Frankford Av &amp; Fitler St - FS / Frankford Av &amp; Grant Av / Frankford Av &amp; Grant Av - FS / Frankford Av &amp; Primrose St / Frankford Av &amp; Primrose St - FS / Frankford Av &amp; Stevenson St / Frankford Av &amp; Stevenson St - FS (450, 462, 66, 84) (8 stations)</name>
+    <Point>
+      <coordinates>-74.991220125,40.060253625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oxford Av &amp; Dyre St / Oxford Av &amp; Wakeling St (495, 59) (4 stations)</name>
+    <Point>
+      <coordinates>-75.084458,40.023311,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Providence Rd (D2) (2 stations)</name>
+    <Point>
+      <coordinates>-75.28863999999999,39.921710000000004,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Richmond St &amp; Ann St / Richmond St &amp; Cambria St / Richmond St &amp; Somerset St (54, G1) (6 stations)</name>
+    <Point>
+      <coordinates>-75.1090575,39.97897483333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>63rd St &amp; Lansdowne Av - FS / Lansdowne Av &amp; 59th St / Lansdowne Av &amp; 60th St / Lansdowne Av &amp; 61st St / Lansdowne Av &amp; 62nd St / Lansdowne Av &amp; 63rd - FS (46, T1) (10 stations)</name>
+    <Point>
+      <coordinates>-75.241895,39.9757581,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Drexel Manor / Garrettford / Marshall Rd (D2) (6 stations)</name>
+    <Point>
+      <coordinates>-75.29628633333333,39.942141,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Creek Rd (D2) (2 stations)</name>
+    <Point>
+      <coordinates>-75.295207,39.9351,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Huey Av / School Ln (D1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.29874925,39.948087,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Saxer Av (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.33358000000001,39.9287185,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Pine Ridge (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.369963,39.914948,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Edgmont St / Monroe St (D1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.386645,39.9175295,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Aronimink (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.3061685,39.949261,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Arrott St &amp; Horrocks St / Arrott St &amp; Large St / Arrott St &amp; Oakland St / Orthodox St &amp; Horrocks St / Orthodox St &amp; Oakland St (41, 495, 75, 89, K) (5 stations)</name>
+    <Point>
+      <coordinates>-75.0902744,40.0190772,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Arrott St &amp; Castor Av / Castor Av &amp;  Adams Av (41, 495, 75, 89, K) (2 stations)</name>
+    <Point>
+      <coordinates>-75.093928,40.022375,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Beverly Blvd (D1, D2)</name>
+    <Point>
+      <coordinates>-75.274822,39.955095,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Drexel Park (D1, D2)</name>
+    <Point>
+      <coordinates>-75.286772,39.949915,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Anderson Av / Drexelbrook (D1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.31439,39.947533,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Drexeline (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.3216745,39.9446125,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Springfield Rd (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.32965899999999,39.934186,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Thomson Av (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.3454475,39.921163,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Clifton-Aldan (D2) (2 stations)</name>
+    <Point>
+      <coordinates>-75.29007250000001,39.9257365,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Paper Mill Rd (D1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.35799449999999,39.915352,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Sharon Hill (D2)</name>
+    <Point>
+      <coordinates>-75.278314,39.906673,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Everett Av / Castor Av &amp; MaGee Av (59) (2 stations)</name>
+    <Point>
+      <coordinates>-75.07504800000001,40.041914,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Faunce St / Castor Av &amp; Glendale Av / Castor Av &amp; Hartel Av / Castor Av &amp; Napfle Av / Castor Av &amp; Shelmire Av (59) (8 stations)</name>
+    <Point>
+      <coordinates>-75.061355125,40.05622425,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Castor Av &amp; Borbeck Av / Castor Av &amp; Borbeck St / Castor Av &amp; Loney St / Castor Av &amp; Rhawn St (59) (5 stations)</name>
+    <Point>
+      <coordinates>-75.0574964,40.060276,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>63rd St &amp; Jefferson St (T1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.246107,39.978291999999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lansdowne Av &amp; 55th St / Lansdowne Av &amp; 56th St / Lansdowne Av &amp; 57th St / Lansdowne Av &amp; 58th St (T1) (7 stations)</name>
+    <Point>
+      <coordinates>-75.2347902857143,39.976521142857145,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lancaster Av &amp; 50th St (T1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.2224895,39.9752205,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lancaster Av &amp; 43th St / Lancaster Av &amp; 44th St / Lancaster Av &amp; 45th St / Lancaster Av &amp; Ogden St / Lancaster Av &amp; Parrish St / Lancaster Av &amp; Westminster St (43, T1) (6 stations)</name>
+    <Point>
+      <coordinates>-75.2112085,39.968625333333335,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lancaster Av &amp; 41st St / Lancaster Av &amp; 42nd St / Lancaster Av &amp; Wallace St (43, T1) (5 stations)</name>
+    <Point>
+      <coordinates>-75.2058936,39.9653684,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lancaster Av &amp; 40th St / Lancaster Av &amp; Haverford Av / Lancaster Av &amp; Spring Garden St (43, T1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.20114275,39.9624945,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lancaster Av &amp; 38th St / Lancaster Av &amp; Powelton Av (T1) (3 stations)</name>
+    <Point>
+      <coordinates>-75.19642633333333,39.960046,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Main St &amp; 3rd St / Main St &amp; 4th St / Main St &amp; 5th St / Main St &amp; 6th St / Main St &amp; Summit St (T4) (9 stations)</name>
+    <Point>
+      <coordinates>-75.25469700000001,39.91756133333334,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Woodland Av &amp; 68th St / Woodland Av &amp; 69th St / Woodland Av &amp; 70th St / Woodland Av &amp; 71st St (T4) (8 stations)</name>
+    <Point>
+      <coordinates>-75.240732125,39.92108225,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Woodland Av &amp; 66th St / Woodland Av &amp; 67th St (T4) (2 stations)</name>
+    <Point>
+      <coordinates>-75.23627049999999,39.92415200000001,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Woodland Av &amp; 60th St (411, 63, T4)</name>
+    <Point>
+      <coordinates>-75.227642,39.930217,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Woodland Av &amp; 53rd St / Woodland Av &amp; 54th St / Woodland Av &amp; 55th St / Woodland Av &amp; 56th St (411, 52, T4) (8 stations)</name>
+    <Point>
+      <coordinates>-75.219693875,39.935891874999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Baltimore Av &amp; 45th St / Chester Av &amp; 42nd St / Chester Av &amp; 43rd St / Chester Av &amp; 45th St / Chester Av &amp; 46th St / Woodland Av &amp; 42nd St / Woodland Av &amp; 43rd St / Woodland Av &amp; 45th St / Woodland Av &amp; 46th St (T2, T3, T4, T5) (14 stations)</name>
+    <Point>
+      <coordinates>-75.2097767857143,39.9469555,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>9th St &amp; Summit St - MBFS (T3)</name>
+    <Point>
+      <coordinates>-75.257482,39.92205,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>65th St &amp; Belmar Av / 65th St &amp; Belmar St (T3) (2 stations)</name>
+    <Point>
+      <coordinates>-75.24097950000001,39.929077,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>60th St &amp; Chester Av / Kingsessing Av &amp; 61st St (415, T3) (3 stations)</name>
+    <Point>
+      <coordinates>-75.23202533333334,39.931975666666666,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Baltimore Av &amp; 46th St (T2)</name>
+    <Point>
+      <coordinates>-75.215061,39.948786,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Grays Av &amp; Lindbergh Blvd / Lindbergh Blvd &amp; 53rd St / Lindbergh Blvd &amp; 54th St / Lindbergh Blvd &amp; Grays Av - FS / Lindbergh Blvd &amp; Wheeler St (T5) (6 stations)</name>
+    <Point>
+      <coordinates>-75.21496866666666,39.934320166666666,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Elmwood Av &amp; 56th St / Elmwood Av &amp; 57th St / Elmwood Av &amp; 58th St / Elmwood Av &amp; 59th St (T5) (8 stations)</name>
+    <Point>
+      <coordinates>-75.219870375,39.92957575,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Elmwood Av &amp; 61st St / Elmwood Av &amp; Edgewood Av (T5) (2 stations)</name>
+    <Point>
+      <coordinates>-75.224347,39.926587999999995,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Elmwood Av &amp; 66th St / Elmwood Av &amp; 67th St / Elmwood Av &amp; 68th St / Elmwood Av &amp; 69th St (T5) (8 stations)</name>
+    <Point>
+      <coordinates>-75.233732875,39.919826625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Elmwood Av &amp; 70th St (T5) (2 stations)</name>
+    <Point>
+      <coordinates>-75.23743999999999,39.9172285,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Woodland Av &amp; 47th St (T4)</name>
+    <Point>
+      <coordinates>-75.210839,39.943245,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Richmond St &amp; Lehigh Av (G1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1132015,39.976817999999994,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; Berks St / Girard Av &amp; Columbia Av / Girard Av &amp; Palmer St (G1) (6 stations)</name>
+    <Point>
+      <coordinates>-75.128286,39.97096466666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 3rd St / Girard Av &amp; 4th St (57, G1) (3 stations)</name>
+    <Point>
+      <coordinates>-75.14198433333333,39.969833333333334,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 16th St (G1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1627055,39.971868,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 31st St / Girard Av &amp; 33rd St (G1) (3 stations)</name>
+    <Point>
+      <coordinates>-75.18710033333333,39.97504866666667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; Belmont Av / Girard Av &amp; Belmont Av - FS (G1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.212029,39.9732615,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 56th St (G1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.232572,39.9706985,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 62nd St / Girard Av &amp; 63rd St - MBFS / Haverford Av &amp; 62nd St / Haverford Av &amp; 63rd St (30, G1) (4 stations)</name>
+    <Point>
+      <coordinates>-75.24378975,39.9709565,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>College Av &amp; 24th St - FS / Girard Av &amp; 24th St (G1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.175614,39.972421499999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Tyson Av - FS (66) (2 stations)</name>
+    <Point>
+      <coordinates>-75.046792,40.033687,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Bleigh Av / Frankford Av &amp; Sheffield Av / Frankford Av &amp; Shelmire St / Frankford Av &amp; Shelmire St - FS (66) (6 stations)</name>
+    <Point>
+      <coordinates>-75.0359395,40.038569833333334,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Ashburner St / Frankford Av &amp; Ashburner St - FS / Frankford Av &amp; Blakiston St / Frankford Av &amp; Solly Av / Frankford Av &amp; Stanwood St / Frankford Av &amp; Stanwood St - FS (66) (8 stations)</name>
+    <Point>
+      <coordinates>-75.02063874999999,40.043786,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Benson St - FS / Frankford Av &amp; Kendrick St / Frankford Av &amp; Megargee St - FS / Frankford Av &amp; Megargee St - MBFS / Frankford Av &amp; Pennypack Av - FS / Frankford Av &amp; Pennypack St - FS (66, 88) (7 stations)</name>
+    <Point>
+      <coordinates>-75.01405871428571,40.047497,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Placid St / Frankford Av &amp; Placid St - FS / Frankford Av &amp; Tolbut St (66, 88) (4 stations)</name>
+    <Point>
+      <coordinates>-75.0096535,40.0510085,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Convent Ln / Frankford Av &amp; Eden St (450, 462, 66) (4 stations)</name>
+    <Point>
+      <coordinates>-74.9969435,40.0584315,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wingohocking St &amp; 16th St (75)</name>
+    <Point>
+      <coordinates>-75.151898,40.02182,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wyoming Av &amp; 2nd St / Wyoming Av &amp; A St / Wyoming Av &amp; Front St / Wyoming Av &amp; Mascher St / Wyoming Av &amp; Rising Sun Av (75) (8 stations)</name>
+    <Point>
+      <coordinates>-75.125230375,40.0216625,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wyoming Av &amp; B St / Wyoming Av &amp; C St / Wyoming Av &amp; D St / Wyoming Av &amp; Whitaker Av (75) (8 stations)</name>
+    <Point>
+      <coordinates>-75.1173075,40.020688125,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wyoming Av &amp; G St / Wyoming Av &amp; H St / Wyoming Av &amp; Weymouth St (75) (6 stations)</name>
+    <Point>
+      <coordinates>-75.110179,40.01978283333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wyoming Av &amp; Ramona Av (75) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1017635,40.018722999999994,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Frankford Av &amp; Delaware Av (25, G1)</name>
+    <Point>
+      <coordinates>-75.134485,39.964812,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Girard Av &amp; 34th St - MBFS (G1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1966025,39.9749835,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ardmore Junction (M1) (2 stations)</name>
+    <Point>
+      <coordinates>-75.30372399999999,39.996275499999996,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Norristown T.C. / Norristown Transit Center (M1, NOR) (3 stations)</name>
+    <Point>
+      <coordinates>-75.34482956666666,40.11323793333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Island Av &amp; 76th St / Island Av &amp; Lindbergh Blvd / Island Av &amp; Lindbergh Blvd - FS / Island Av &amp; Tanager Pl (68, T5 Bus) (5 stations)</name>
+    <Point>
+      <coordinates>-75.241024,39.9063762,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Island Av &amp; Eastwick Loop - On Street (T5 Bus)</name>
+    <Point>
+      <coordinates>-75.239435,39.899275,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>9TH Street Lansdale (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2791667,40.25,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Airport Terminal A / Airport Terminal B / Airport Terminal C D / Airport Terminal E F (AIR) (4 stations)</name>
+    <Point>
+      <coordinates>-75.24159722499999,39.877708325,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Allegheny (NOR)</name>
+    <Point>
+      <coordinates>-75.1647222,40.0036111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Richard Allen Lane (CHW)</name>
+    <Point>
+      <coordinates>-75.1947222,40.0575,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ambler (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2247222,40.1536111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ardsley (WAR)</name>
+    <Point>
+      <coordinates>-75.1530556,40.1141667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ardmore (PAO)</name>
+    <Point>
+      <coordinates>-75.2902778,40.0083333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bala (CYN)</name>
+    <Point>
+      <coordinates>-75.2277778,40.0011111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Berwyn (PAO)</name>
+    <Point>
+      <coordinates>-75.4422222,40.0480556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bryn Mawr (PAO)</name>
+    <Point>
+      <coordinates>-75.3163889,40.0219444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bristol (TRE)</name>
+    <Point>
+      <coordinates>-74.8547222,40.1047222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Bethayres (WTR)</name>
+    <Point>
+      <coordinates>-75.0683333,40.1166667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Carpenter (CHW)</name>
+    <Point>
+      <coordinates>-75.1913889,40.0511111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chestnut Hill East (CHE)</name>
+    <Point>
+      <coordinates>-75.2072222,40.0811111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Chalfont (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2097222,40.2877778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Churchman's Crossing (WIL)</name>
+    <Point>
+      <coordinates>-75.6725,39.695,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Claymont (WIL)</name>
+    <Point>
+      <coordinates>-75.4458333,39.8041667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Colmar (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2544444,40.2683333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Conshohocken (NOR)</name>
+    <Point>
+      <coordinates>-75.3105556,40.0727778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Cornwells Heights (TRE)</name>
+    <Point>
+      <coordinates>-74.9522222,40.0716667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Crum Lynne (WIL)</name>
+    <Point>
+      <coordinates>-75.3311111,39.8719444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Croydon (TRE)</name>
+    <Point>
+      <coordinates>-74.9066667,40.0936111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Crestmont (WAR)</name>
+    <Point>
+      <coordinates>-75.1186111,40.1333333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Curtis Park (WIL)</name>
+    <Point>
+      <coordinates>-75.265,39.9080556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Cynwyd (CYN)</name>
+    <Point>
+      <coordinates>-75.2316667,40.0066667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Daylesford (PAO)</name>
+    <Point>
+      <coordinates>-75.4605556,40.0430556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Darby (WIL)</name>
+    <Point>
+      <coordinates>-75.2544444,39.9130556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Devon (PAO)</name>
+    <Point>
+      <coordinates>-75.4227778,40.0472222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Delaware Valley College (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.1616667,40.2972222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Downingtown (PAO)</name>
+    <Point>
+      <coordinates>-75.7102778,40.0022222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Doylestown (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.1302778,40.3063889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Eddington (TRE)</name>
+    <Point>
+      <coordinates>-74.9336111,40.0830556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Eddystone (WIL)</name>
+    <Point>
+      <coordinates>-75.3422222,39.8572222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>East Falls (NOR)</name>
+    <Point>
+      <coordinates>-75.1919444,40.0113889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Elwyn (MED)</name>
+    <Point>
+      <coordinates>-75.4116667,39.9075,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Elkins Park (AIR, MED, WAR, WTR)</name>
+    <Point>
+      <coordinates>-75.1277778,40.0713889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Eastwick (AIR)</name>
+    <Point>
+      <coordinates>-75.2438889,39.8927778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Exton (PAO)</name>
+    <Point>
+      <coordinates>-75.6227778,40.0191667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Folcroft (WIL)</name>
+    <Point>
+      <coordinates>-75.2797222,39.9005556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Forest Hills (WTR)</name>
+    <Point>
+      <coordinates>-75.0205556,40.1277778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Fortuna (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2661111,40.2594444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Fort Washington (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2122222,40.1358333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Gladstone (MED)</name>
+    <Point>
+      <coordinates>-75.2822222,39.9327778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Glenolden (WIL)</name>
+    <Point>
+      <coordinates>-75.29,39.8963889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Glenside (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.1536111,40.1013889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Gwynedd Valley (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2569444,40.1847222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Hatboro (WAR)</name>
+    <Point>
+      <coordinates>-75.1025,40.1761111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Haverford (PAO)</name>
+    <Point>
+      <coordinates>-75.2997222,40.0138889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Highland Avenue (WIL)</name>
+    <Point>
+      <coordinates>-75.3933333,39.8336111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Highland (CHW)</name>
+    <Point>
+      <coordinates>-75.2111111,40.0705556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Holmesburg Jct (TRE)</name>
+    <Point>
+      <coordinates>-75.0236111,40.0327778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ivy Ridge (NOR)</name>
+    <Point>
+      <coordinates>-75.2355556,40.0341667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Jenkintown Wyncote (AIR, LAN, MED, WAR, WTR)</name>
+    <Point>
+      <coordinates>-75.1375,40.0927778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lansdale (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.285,40.2427778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Langhorne (WTR)</name>
+    <Point>
+      <coordinates>-74.9125,40.1608333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lawndale (FOX)</name>
+    <Point>
+      <coordinates>-75.1030556,40.0513889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Link Belt (LAN)</name>
+    <Point>
+      <coordinates>-75.2466667,40.2738889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lansdowne (MED)</name>
+    <Point>
+      <coordinates>-75.2708333,39.9375,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Levittown-Tullytown (TRE)</name>
+    <Point>
+      <coordinates>-74.8169444,40.1402778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Malvern (PAO)</name>
+    <Point>
+      <coordinates>-75.5155556,40.0363889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Manayunk (NOR)</name>
+    <Point>
+      <coordinates>-75.225,40.0269444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Meadowbrook (WTR)</name>
+    <Point>
+      <coordinates>-75.0925,40.1113889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Media (MED)</name>
+    <Point>
+      <coordinates>-75.395,39.9144444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Merion (PAO)</name>
+    <Point>
+      <coordinates>-75.2513889,39.9986111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Marcus Hook (WIL)</name>
+    <Point>
+      <coordinates>-75.4194444,39.8216667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Miquon (NOR)</name>
+    <Point>
+      <coordinates>-75.2663889,40.0586111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Melrose Park (AIR, MED, WAR, WTR)</name>
+    <Point>
+      <coordinates>-75.1291667,40.0594444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Main Street (NOR)</name>
+    <Point>
+      <coordinates>-75.3486111,40.1172222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Morton-Rutledge (MED)</name>
+    <Point>
+      <coordinates>-75.3288889,39.9077778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Moylan-Rose Valley (MED)</name>
+    <Point>
+      <coordinates>-75.3886111,39.9061111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Neshaminy (WTR)</name>
+    <Point>
+      <coordinates>-74.9616667,40.1469444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Newark (WIL)</name>
+    <Point>
+      <coordinates>-75.7527778,39.6705556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Noble (WTR)</name>
+    <Point>
+      <coordinates>-75.1241667,40.1044444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>North Hills (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.1694444,40.1119444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Norwood (WIL)</name>
+    <Point>
+      <coordinates>-75.3016667,39.8916667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>North Philadelphia / North Philadelphia Amtrak (CHW, TRE) (2 stations)</name>
+    <Point>
+      <coordinates>-75.15569445,39.9975,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Narberth (PAO)</name>
+    <Point>
+      <coordinates>-75.2613889,40.0047222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Norristown - Elm Street (NOR)</name>
+    <Point>
+      <coordinates>-75.345,40.1208333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>New Britain (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.1797222,40.2975,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>North Wales (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2772222,40.2141667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Oreland (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.1838889,40.1183333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Overbrook (PAO)</name>
+    <Point>
+      <coordinates>-75.2494444,39.9894444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Paoli (PAO)</name>
+    <Point>
+      <coordinates>-75.4827778,40.0430556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Pennbrook (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2816667,40.2302778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Philmont (WTR)</name>
+    <Point>
+      <coordinates>-75.0436111,40.1219444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Penllyn (LAN, WAR)</name>
+    <Point>
+      <coordinates>-75.2441667,40.17,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Primos (MED)</name>
+    <Point>
+      <coordinates>-75.2983333,39.9216667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Prospect Park - Moore (WIL)</name>
+    <Point>
+      <coordinates>-75.3088889,39.8883333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Queen Lane (CHW)</name>
+    <Point>
+      <coordinates>-75.1780556,40.0233333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Radnor (PAO)</name>
+    <Point>
+      <coordinates>-75.3588889,40.0447222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ridley Park (WIL)</name>
+    <Point>
+      <coordinates>-75.3222222,39.8805556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Rosemont (PAO)</name>
+    <Point>
+      <coordinates>-75.3266667,40.0277778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Roslyn (WAR)</name>
+    <Point>
+      <coordinates>-75.1341667,40.1208333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Rydal (WTR)</name>
+    <Point>
+      <coordinates>-75.1105556,40.1075,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Secane (MED)</name>
+    <Point>
+      <coordinates>-75.3097222,39.9158333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Sedgwick (CHE)</name>
+    <Point>
+      <coordinates>-75.1852778,40.0627778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Sharon Hill (WIL)</name>
+    <Point>
+      <coordinates>-75.2708333,39.9044444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Somerton (WTR)</name>
+    <Point>
+      <coordinates>-75.0119444,40.1305556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Spring Mill (NOR)</name>
+    <Point>
+      <coordinates>-75.2861111,40.0741667,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>St. Davids (PAO)</name>
+    <Point>
+      <coordinates>-75.3725,40.0438889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Strafford (PAO)</name>
+    <Point>
+      <coordinates>-75.4030556,40.0494444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>St. Martins (CHW)</name>
+    <Point>
+      <coordinates>-75.2044444,40.0658333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Stenton (CHE)</name>
+    <Point>
+      <coordinates>-75.1786111,40.0605556,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Swarthmore (MED)</name>
+    <Point>
+      <coordinates>-75.3508333,39.9022222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Tacony (TRE)</name>
+    <Point>
+      <coordinates>-75.0388889,40.0233333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Thorndale (PAO)</name>
+    <Point>
+      <coordinates>-75.7636111,39.9927778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Torresdale (TRE)</name>
+    <Point>
+      <coordinates>-74.9844444,40.0544444,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Trenton (TRE)</name>
+    <Point>
+      <coordinates>-74.755,40.2177778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Trevose (WTR)</name>
+    <Point>
+      <coordinates>-74.9825,40.1402778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Tulpehocken (CHW)</name>
+    <Point>
+      <coordinates>-75.1869444,40.0352778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Upsal (CHW)</name>
+    <Point>
+      <coordinates>-75.19,40.0425,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Villanova (PAO)</name>
+    <Point>
+      <coordinates>-75.3416667,40.0383333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Washington Lane (CHE)</name>
+    <Point>
+      <coordinates>-75.1713889,40.0508333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wallingford (MED)</name>
+    <Point>
+      <coordinates>-75.3719444,39.9036111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wawa (MED)</name>
+    <Point>
+      <coordinates>-75.46,39.9138889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wayne (PAO)</name>
+    <Point>
+      <coordinates>-75.3866667,40.0458333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Woodbourne (WTR)</name>
+    <Point>
+      <coordinates>-74.8891667,40.1925,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wilmington (WIL)</name>
+    <Point>
+      <coordinates>-75.5511111,39.7372222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Whitford (PAO)</name>
+    <Point>
+      <coordinates>-75.6380556,40.0147222,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wister (CHE)</name>
+    <Point>
+      <coordinates>-75.1611111,40.0361111,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Willow Grove (WAR)</name>
+    <Point>
+      <coordinates>-75.1141667,40.1438889,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Warminster (WAR)</name>
+    <Point>
+      <coordinates>-75.0891667,40.1952778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>West Trenton (WTR)</name>
+    <Point>
+      <coordinates>-74.8152778,40.2577778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wyndmoor (CHE)</name>
+    <Point>
+      <coordinates>-75.1966667,40.0733333,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wynnefield Avenue (CYN)</name>
+    <Point>
+      <coordinates>-75.2255556,39.99,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Wynnewood (PAO)</name>
+    <Point>
+      <coordinates>-75.2725,40.0027778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Yardley (WTR)</name>
+    <Point>
+      <coordinates>-74.8305556,40.2352778,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lindenwold (PATCO)</name>
+    <Point>
+      <coordinates>-75.000325,39.833809,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>15-16th and Locust (PATCO)</name>
+    <Point>
+      <coordinates>-75.167792,39.948635,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ashland (PATCO)</name>
+    <Point>
+      <coordinates>-75.009198,39.858698,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Woodcrest (PATCO)</name>
+    <Point>
+      <coordinates>-75.011247,39.870157,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Haddonfield (PATCO)</name>
+    <Point>
+      <coordinates>-75.037141,39.897609,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Westmont (PATCO)</name>
+    <Point>
+      <coordinates>-75.046545,39.907086,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Collingswood (PATCO)</name>
+    <Point>
+      <coordinates>-75.064559,39.913588,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Ferry Avenue (PATCO)</name>
+    <Point>
+      <coordinates>-75.092025,39.922869,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Broadway / City Hall (PATCO) (2 stations)</name>
+    <Point>
+      <coordinates>-75.1201585,39.944148,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
